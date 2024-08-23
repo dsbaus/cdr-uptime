@@ -1,7 +1,7 @@
-url: https://online.woolworthsteambank.com.au/OpenBanking/discovery/status
-status: down
-code: 404
-responseTime: 1702
-lastUpdated: 2024-08-23T12:06:41.615Z
+url: https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 1588
+lastUpdated: 2024-08-23T12:44:29.060Z
 startTime: 2024-08-23T12:06:39.422Z
 generator: Upptime <https://github.com/upptime/upptime>
