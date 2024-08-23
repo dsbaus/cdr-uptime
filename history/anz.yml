@@ -1,7 +1,7 @@
-url: https://api.anz/discovery/status
-status: down
-code: 404
-responseTime: 580
-lastUpdated: 2024-08-23T11:59:51.185Z
+url: https://api.anz/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 1098
+lastUpdated: 2024-08-23T12:38:52.343Z
 startTime: 2024-08-23T11:59:50.237Z
 generator: Upptime <https://github.com/upptime/upptime>
