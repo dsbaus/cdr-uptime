@@ -1,7 +1,7 @@
-url: https://secure.gmcu.com.au/OpenBanking/discovery/status
-status: down
-code: 404
-responseTime: 1733
-lastUpdated: 2024-08-23T12:02:46.226Z
+url: https://secure.gmcu.com.au/OpenBanking/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 1885
+lastUpdated: 2024-08-23T12:41:34.876Z
 startTime: 2024-08-23T12:02:44.018Z
 generator: Upptime <https://github.com/upptime/upptime>
