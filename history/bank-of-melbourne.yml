@@ -1,7 +1,7 @@
-url: https://digital-api.bankofmelbourne.com.au/discovery/status
-status: down
-code: 403
-responseTime: 839
-lastUpdated: 2024-08-23T12:00:25.677Z
+url: https://digital-api.bankofmelbourne.com.au/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 8222
+lastUpdated: 2024-08-23T12:39:24.561Z
 startTime: 2024-08-23T12:00:23.199Z
 generator: Upptime <https://github.com/upptime/upptime>
