@@ -1,7 +1,7 @@
-url: https://public.cdr.covau.com.au/discovery/status
+url: https://public.cdr.covau.com.au/cds-au/v1/energy/plans
 status: down
 code: 404
-responseTime: 1308
-lastUpdated: 2024-08-23T12:01:40.690Z
+responseTime: 1206
+lastUpdated: 2024-08-23T12:40:32.534Z
 startTime: 2024-08-23T12:01:38.936Z
 generator: Upptime <https://github.com/upptime/upptime>
