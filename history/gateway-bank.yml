@@ -1,7 +1,7 @@
-url: https://public.cdr-api.gatewaybank.com.au/discovery/status
-status: down
-code: 404
-responseTime: 985
-lastUpdated: 2024-08-23T12:02:29.274Z
+url: https://public.cdr-api.gatewaybank.com.au/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 1790
+lastUpdated: 2024-08-23T12:41:17.639Z
 startTime: 2024-08-23T12:02:27.804Z
 generator: Upptime <https://github.com/upptime/upptime>
