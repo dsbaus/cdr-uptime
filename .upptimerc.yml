@@ -51,7 +51,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: AGL
     data_holder_brand_id: d177e382-b12d-ed11-a832-000d3a8830d6
     is_interim: false
@@ -76,7 +76,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Alinta Energy
     data_holder_brand_id: 8bd0fd93-9d26-ee11-a83d-000d3a8830d6
     is_interim: false
@@ -125,7 +125,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Ampol Energy
     data_holder_brand_id: e48e8b94-ff6b-44cf-a572-0dff928cf056
     is_interim: true
@@ -150,7 +150,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ANZ Plus
     data_holder_brand_id: e89bd6dc-0515-ec11-a826-000d3a884a20
     is_interim: false
@@ -163,7 +163,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Arab Bank Australia Limited
     data_holder_brand_id: d77535b2-ad4a-ed11-a833-000d3a8830d6
     is_interim: false
@@ -175,7 +175,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Arc Energy Group
     data_holder_brand_id: e7efef1f-22b8-4a15-826c-047f71aa2d20
     is_interim: true
@@ -236,7 +236,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Australian Military Bank
     data_holder_brand_id: 2ee9e2a8-1c98-eb11-a821-000d3a884a20
     is_interim: false
@@ -249,7 +249,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Australian Mutual Bank LTD
     data_holder_brand_id: c289cfa3-b00b-ec11-a826-000d3a884a20
     is_interim: false
@@ -262,7 +262,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Australian Unity Bank
     data_holder_brand_id: 6de12fb5-acc9-eb11-a823-000d3a884a20
     is_interim: false
@@ -275,7 +275,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Auswide Bank Ltd
     data_holder_brand_id: 036fc691-efae-eb11-a822-000d3a884a20
     is_interim: false
@@ -288,7 +288,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: AWA Alliance Bank
     data_holder_brand_id: 346b70aa-a70e-425d-bc9b-9b8b8c8c5a4e
     is_interim: true
@@ -300,7 +300,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Bank Australia
     data_holder_brand_id: 578efc60-4eb1-eb11-a822-000d3a884a20
     is_interim: false
@@ -313,7 +313,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Bank First
     data_holder_brand_id: 6033e46f-ea9c-eb11-a821-000d3a884a20
     is_interim: false
@@ -326,7 +326,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Bank of China
     data_holder_brand_id: 457ab798-5811-ec11-a826-000d3a884a20
     is_interim: false
@@ -338,7 +338,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Bank of Melbourne
     data_holder_brand_id: 5570db5a-e5ae-eb11-a822-000d3a884a20
     is_interim: false
@@ -351,7 +351,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Bank of Queensland Limited
     data_holder_brand_id: 227cc6c0-350d-ec11-a826-000d3a884a20
     is_interim: false
@@ -364,7 +364,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Bank of Sydney
     data_holder_brand_id: 9bd98cf1-5c97-eb11-a821-000d3a884a20
     is_interim: false
@@ -376,7 +376,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Bank of us
     data_holder_brand_id: db914c7a-3d09-ec11-a826-000d3a884a20
     is_interim: false
@@ -388,7 +388,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: BankSA
     data_holder_brand_id: 01608f70-e4ae-eb11-a822-000d3a884a20
     is_interim: false
@@ -400,7 +400,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: BankVic
     data_holder_brand_id: 09f9da8a-78bf-eb11-a823-000d3a884a20
     is_interim: false
@@ -413,7 +413,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: bankWAW
     data_holder_brand_id: d4ba9bdd-eede-eb11-a824-000d3a884a20
     is_interim: false
@@ -425,7 +425,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Bankwest
     data_holder_brand_id: ae94b39d-6f30-eb11-a81d-000d3a884a20
     is_interim: false
@@ -438,7 +438,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: BCU Bank
     data_holder_brand_id: 902e9d5b-e4ab-eb11-a822-000d3a884a20
     is_interim: false
@@ -450,7 +450,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Bell Potter
     data_holder_brand_id: 93cde71f-4abd-eb11-a823-000d3a884a20
     is_interim: false
@@ -463,7 +463,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Bendigo Bank
     data_holder_brand_id: 459574b5-999d-eb11-a821-000d3a884a20
     is_interim: false
@@ -476,7 +476,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Besy
     data_holder_brand_id: ea94715b-96fa-4ed2-9a44-6a7f1f40676c
     is_interim: true
@@ -501,7 +501,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: BHCCU
     data_holder_brand_id: 5ae6bbec-939d-eb11-a821-000d3a884a20
     is_interim: false
@@ -514,7 +514,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Blue NRG
     data_holder_brand_id: f120a1b5-4c00-ef11-a73d-002248e1c726
     is_interim: false
@@ -540,7 +540,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Brighte Energy
     data_holder_brand_id: 736b2c27-aa4b-4554-987b-80101a93b728
     is_interim: true
@@ -565,7 +565,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Card Services
     data_holder_brand_id: 0a28f0a1-37bc-eb11-a823-000d3a884a20
     is_interim: false
@@ -578,7 +578,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: CBA - CommBiz
     data_holder_brand_id: de48e3c6-aaff-eb11-a826-000d3a884a20
     is_interim: false
@@ -590,7 +590,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Central Murray Credit Union Limited
     data_holder_brand_id: f9ccd1f0-04a7-eb11-a822-000d3a884a20
     is_interim: false
@@ -602,7 +602,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Central West CUL
     data_holder_brand_id: a8fcc391-7625-ec11-a827-000d3a884a20
     is_interim: false
@@ -614,7 +614,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Circular Energy
     data_holder_brand_id: 040f7f80-c3b2-4a10-8e15-ebb9f324bad6
     is_interim: true
@@ -638,7 +638,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: CleanCo Queensland
     data_holder_brand_id: 40c3b4cd-2df1-4d55-843e-a7ff32aa9dc6
     is_interim: true
@@ -674,7 +674,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Coles Energy
     data_holder_brand_id: db23f052-0bec-48ab-87fe-59290d142704
     is_interim: true
@@ -699,7 +699,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Commander Power & Gas
     data_holder_brand_id: bca9760e-667f-4176-b54b-baf0ed04c9ae
     is_interim: true
@@ -723,7 +723,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: CommFCU
     data_holder_brand_id: 971e8453-8933-eb11-a835-000d3a8842e1
     is_interim: false
@@ -737,7 +737,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: COVAU PTY LIMITED
     data_holder_brand_id: 32c3ea87-ce3b-ee11-a81c-002248143709
     is_interim: false
@@ -774,7 +774,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: DDH Graham
     data_holder_brand_id: bc0774f7-be0e-ec11-a826-000d3a884a20
     is_interim: false
@@ -786,7 +786,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Defence Bank
     data_holder_brand_id: 1a74d48b-7e9e-eb11-a821-000d3a884a20
     is_interim: false
@@ -799,7 +799,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Diamond Energy
     data_holder_brand_id: 40596bd5-f037-ee11-a83d-000d3a8830d6
     is_interim: false
@@ -836,7 +836,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Dodo Power & Gas
     data_holder_brand_id: 3b80d279-c455-ee11-a81c-002248e31327
     is_interim: false
@@ -872,7 +872,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Electricity in a Box
     data_holder_brand_id: dd2dfd26-60e1-44a3-9c29-bc1530941ca3
     is_interim: true
@@ -984,7 +984,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Fire Service Credit Union
     data_holder_brand_id: c3ab13c0-5dad-eb11-a822-000d3a884a20
     is_interim: false
@@ -996,7 +996,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Firefighters Mutual Bank
     data_holder_brand_id: 494c5cad-30b1-eb11-a822-000d3a884a20
     is_interim: false
@@ -1009,7 +1009,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: First Option Bank
     data_holder_brand_id: 19568386-2b43-eb11-a81e-000d3a884a20
     is_interim: false
@@ -1023,7 +1023,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Flow Power
     data_holder_brand_id: ee434966-7168-4884-9b98-98d71bd3ef3c
     is_interim: true
@@ -1071,7 +1071,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Gateway Bank
     data_holder_brand_id: 298987af-3ead-eb11-a822-000d3a884a20
     is_interim: false
@@ -1083,7 +1083,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: GEE Energy
     data_holder_brand_id: a983ebe7-14b5-4c15-8d69-6d5aac7f47ef
     is_interim: true
@@ -1107,7 +1107,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: GloBird Energy
     data_holder_brand_id: c12829c8-3a63-ee11-a81c-002248e31327
     is_interim: false
@@ -1144,7 +1144,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Goldfields Money
     data_holder_brand_id: 6cb8e276-06fb-40d1-beee-ea188c962fbb
     is_interim: true
@@ -1156,7 +1156,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Great Southern Bank
     data_holder_brand_id: aff66646-9ad8-eb11-a824-000d3a884a20
     is_interim: false
@@ -1168,7 +1168,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Great Southern Bank Business+
     data_holder_brand_id: 7539fe61-f2e3-ed11-a83a-000d3a8830d6
     is_interim: false
@@ -1181,7 +1181,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Greater Bank
     data_holder_brand_id: 55aec763-b78a-49d9-a5e1-767469cbd752
     is_interim: true
@@ -1193,7 +1193,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Health Professionals Bank
     data_holder_brand_id: 3445ce0d-31b1-eb11-a822-000d3a884a20
     is_interim: false
@@ -1206,7 +1206,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Heartland
     data_holder_brand_id: 567d75c9-3c35-ec11-a828-000d3a884a20
     is_interim: false
@@ -1219,7 +1219,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Heritage Bank
     data_holder_brand_id: 02a63e21-bd3d-eb11-a835-000d3a8842e1
     is_interim: false
@@ -1231,7 +1231,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Hiver Bank
     data_holder_brand_id: e203dff9-32b1-eb11-a822-000d3a884a20
     is_interim: false
@@ -1243,7 +1243,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Horizon Bank
     data_holder_brand_id: 5c2e8067-d2de-eb11-a824-000d3a884a20
     is_interim: false
@@ -1256,7 +1256,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: HSBC
     data_holder_brand_id: ca0ad1c8-c0b3-eb11-a822-000d3a884a20
     is_interim: false
@@ -1269,7 +1269,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: HSBC Bank Australia Limited – Wholesale Banking
     data_holder_brand_id: 94847394-0cfd-ec11-a830-000d3a8830d6
     is_interim: false
@@ -1282,7 +1282,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Hume Bank
     data_holder_brand_id: 5de290be-a7e2-eb11-a824-000d3a884a20
     is_interim: false
@@ -1294,7 +1294,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Humenergy Group
     data_holder_brand_id: 126f03dc-3947-428b-99fd-685b94fe1363
     is_interim: true
@@ -1331,7 +1331,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: IMB Bank
     data_holder_brand_id: 8d07eed3-588c-eb11-a821-000d3a884a20
     is_interim: false
@@ -1343,7 +1343,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ING BANK (Australia) Ltd
     data_holder_brand_id: fc9352a8-ad27-eb11-a834-000d3a8842e1
     is_interim: false
@@ -1355,7 +1355,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Judo Bank
     data_holder_brand_id: dd301af3-93b7-eb11-a822-000d3a884a20
     is_interim: false
@@ -1367,7 +1367,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Kogan Energy
     data_holder_brand_id: 49298578-5132-ee11-a83d-000d3a8830d6
     is_interim: false
@@ -1392,7 +1392,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Laboratories Credit Union
     data_holder_brand_id: cdff6335-a5be-eb11-a823-000d3a884a20
     is_interim: false
@@ -1404,7 +1404,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Liberty Financial
     data_holder_brand_id: 556fe6e2-d208-ef11-989a-6045bd4001ae
     is_interim: false
@@ -1418,7 +1418,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Locality Planning Energy
     data_holder_brand_id: d1c6becb-c00e-4e23-8117-227a4ecc03b0
     is_interim: true
@@ -1478,7 +1478,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Macquarie Credit Union
     data_holder_brand_id: d1674859-0c3a-4206-8a94-1f5e32144848
     is_interim: true
@@ -1490,7 +1490,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Maitland Mutual Limited
     data_holder_brand_id: 49c500b3-dacf-eb11-a824-000d3a884a20
     is_interim: false
@@ -1502,7 +1502,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ME Bank
     data_holder_brand_id: a26fd60b-14ba-ec11-a82d-000d3a8830d6
     is_interim: false
@@ -1515,7 +1515,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ME Bank - ME Go
     data_holder_brand_id: 78883a14-67ae-ed11-a838-000d3a8830d6
     is_interim: false
@@ -1528,7 +1528,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Metered Energy Holdings Pty Ltd
     data_holder_brand_id: cd90f1f3-a930-4674-9ce7-18a9dbc1eeb3
     is_interim: true
@@ -1576,7 +1576,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: MyState Bank
     data_holder_brand_id: 0be156cc-2eae-eb11-a822-000d3a884a20
     is_interim: false
@@ -1588,7 +1588,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: NATIONAL AUSTRALIA BANK
     data_holder_brand_id: 25797662-e294-ea11-a831-000d3a8842e1
     is_interim: false
@@ -1600,7 +1600,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Nectr
     data_holder_brand_id: 47dd2161-c951-ee11-a81c-002248e31327
     is_interim: false
@@ -1624,7 +1624,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Next Business Energy
     data_holder_brand_id: 4f2f096c-5841-ee11-a81c-002248143709
     is_interim: false
@@ -1648,7 +1648,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: On by EnergyAustralia
     data_holder_brand_id: c5232022-a219-4892-a05d-01419c8a37cb
     is_interim: true
@@ -1673,7 +1673,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Origin Energy
     data_holder_brand_id: 244d8a80-3828-ed11-a832-000d3a8830d6
     is_interim: false
@@ -1710,7 +1710,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Pacific Blue Retail
     data_holder_brand_id: d37e16d2-dd5d-ee11-a81c-002248e31327
     is_interim: false
@@ -1735,7 +1735,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: People Energy
     data_holder_brand_id: 34ae9e94-158a-4d3e-9a0f-3682ab04dd15
     is_interim: true
@@ -1760,7 +1760,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Police Bank
     data_holder_brand_id: f136007d-bab7-4a4d-adaf-55bfb4d654d7
     is_interim: true
@@ -1772,7 +1772,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Police Credit Union Ltd
     data_holder_brand_id: e9a1ff83-96c2-eb11-a823-000d3a884a20
     is_interim: false
@@ -1785,7 +1785,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Powerdirect
     data_holder_brand_id: c43e786c-ce1f-48f2-b551-8a8e5c67cf47
     is_interim: true
@@ -1847,7 +1847,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: QBANK
     data_holder_brand_id: 2830e32a-4edd-eb11-a824-000d3a884a20
     is_interim: false
@@ -1859,7 +1859,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Qudos Bank
     data_holder_brand_id: ac4892a0-44ad-eb11-a822-000d3a884a20
     is_interim: false
@@ -1871,7 +1871,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Queensland Country Bank
     data_holder_brand_id: 7179a2ee-f6a2-eb11-a822-000d3a884a20
     is_interim: false
@@ -1884,7 +1884,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Rabobank
     data_holder_brand_id: 3312bd10-ba3d-eb11-a835-000d3a8842e1
     is_interim: false
@@ -1897,7 +1897,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: RACQ Bank
     data_holder_brand_id: 79e00408-cb0e-ec11-a826-000d3a884a20
     is_interim: false
@@ -1910,7 +1910,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Radian Energy
     data_holder_brand_id: 4fd2ea8f-504b-4432-a5ca-d6d6a22fa5c8
     is_interim: true
@@ -1934,7 +1934,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Real Utilities
     data_holder_brand_id: a10b23c3-af4d-458a-a22b-7b91ba09e8d2
     is_interim: true
@@ -1983,7 +1983,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Reliance Bank
     data_holder_brand_id: 209da5b7-0f1c-ec11-a827-000d3a884a20
     is_interim: false
@@ -1996,7 +1996,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: RSL Money
     data_holder_brand_id: 5d5ecd1d-1d98-eb11-a821-000d3a884a20
     is_interim: false
@@ -2008,7 +2008,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Rural Bank
     data_holder_brand_id: dbb498c0-b1fd-4215-bce6-072260d4793a
     is_interim: true
@@ -2020,7 +2020,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Sanctuary Energy
     data_holder_brand_id: 7de5cab6-0d84-464e-8181-950e265f3f7a
     is_interim: true
@@ -2104,7 +2104,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Southern Cross Credit Union
     data_holder_brand_id: bdb3f8fa-d791-eb11-a821-000d3a884a20
     is_interim: false
@@ -2116,7 +2116,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: St.George Bank
     data_holder_brand_id: 31cc0d98-e3ae-eb11-a822-000d3a884a20
     is_interim: false
@@ -2129,7 +2129,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Stanwell Energy
     data_holder_brand_id: 58e05a48-1826-4adb-be5f-4d71af1494ca
     is_interim: true
@@ -2153,7 +2153,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Sumo
     data_holder_brand_id: d3146a7f-bcdd-4f60-9c03-e4cf47ad3e89
     is_interim: true
@@ -2193,7 +2193,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Tango Energy
     data_holder_brand_id: 8bbfb815-515e-ee11-a81c-002248e31327
     is_interim: false
@@ -2231,7 +2231,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Telstra Energy
     data_holder_brand_id: d709dd2d-e1df-44ec-b427-90865c77b7bf
     is_interim: true
@@ -2256,7 +2256,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: The Mac
     data_holder_brand_id: 1f412aa8-24c8-eb11-a823-000d3a884a20
     is_interim: false
@@ -2268,7 +2268,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Thriday
     data_holder_brand_id: 216813c9-21c6-ec11-a82e-000d3a8830d6
     is_interim: false
@@ -2281,7 +2281,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: TMCU
     data_holder_brand_id: 75a52ce6-120a-ec11-a826-000d3a884a20
     is_interim: false
@@ -2294,7 +2294,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Traditional Credit Union
     data_holder_brand_id: cae1ccc1-f2de-4b61-85b6-0320c180e009
     is_interim: true
@@ -2306,7 +2306,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Tyro Payments
     data_holder_brand_id: 0bd792ee-49b4-eb11-a822-000d3a884a20
     is_interim: false
@@ -2318,7 +2318,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: UBank
     data_holder_brand_id: 307dbf74-8bbe-eb11-a823-000d3a884a20
     is_interim: false
@@ -2330,7 +2330,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: UniBank
     data_holder_brand_id: 8ac1db25-30b1-eb11-a822-000d3a884a20
     is_interim: false
@@ -2343,7 +2343,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Unity Bank
     data_holder_brand_id: bf7df75a-52bf-eb11-a823-000d3a884a20
     is_interim: false
@@ -2355,7 +2355,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Unloan
     data_holder_brand_id: fcfec791-391b-ec11-a827-000d3a884a20
     is_interim: false
@@ -2368,7 +2368,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Up
     data_holder_brand_id: bf1c01af-789d-eb11-a821-000d3a884a20
     is_interim: false
@@ -2380,7 +2380,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Virgin Money
     data_holder_brand_id: 5f4a4ddc-670f-ec11-a826-000d3a884a20
     is_interim: false
@@ -2392,7 +2392,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Warwick Credit Union Ltd
     data_holder_brand_id: e22c0f07-21fb-eb11-a825-000d3a884a20
     is_interim: false
@@ -2404,7 +2404,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Westpac
     data_holder_brand_id: ffe2945b-e094-ea11-a831-000d3a8842e1
     is_interim: false
@@ -2417,7 +2417,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: WinConnect
     data_holder_brand_id: cfff6141-0d91-4c25-b708-eff75fa7de5e
     is_interim: true
@@ -2441,7 +2441,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Woolworths Team Bank
     data_holder_brand_id: 27562b79-f6c8-eb11-a823-000d3a884a20
     is_interim: false
@@ -2455,7 +2455,7 @@ sites:
       - banking
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: YES Energy
     data_holder_brand_id: d43e8fb4-b1a2-4cfd-bde4-ab91daec7399
     is_interim: true
@@ -2480,7 +2480,6 @@ sites:
     _dangerous__insecure: true
     headers:
       - 'x-v: 1'
-
 
 workflowSchedule:
   uptime: "10 2 * * *"
