@@ -1,7 +1,7 @@
-url: https://public-data.cdr.regaustbank.io/discovery/status
-status: down
-code: 404
-responseTime: 1026
-lastUpdated: 2024-08-23T12:05:07.102Z
+url: https://public-data.cdr.regaustbank.io/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 918
+lastUpdated: 2024-08-23T12:43:26.525Z
 startTime: 2024-08-23T12:05:05.578Z
 generator: Upptime <https://github.com/upptime/upptime>
