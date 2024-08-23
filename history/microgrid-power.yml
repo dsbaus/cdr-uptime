@@ -1,7 +1,7 @@
-url: https://cdr.energymadeeasy.gov.au/microgrid/discovery/status
-status: down
-code: 404
-responseTime: 45
-lastUpdated: 2024-08-23T12:03:52.864Z
+url: https://cdr.energymadeeasy.gov.au/microgrid/cds-au/v1/energy/plans
+status: up
+code: 200
+responseTime: 687
+lastUpdated: 2024-08-23T12:42:28.345Z
 startTime: 2024-08-23T12:03:52.756Z
 generator: Upptime <https://github.com/upptime/upptime>
