@@ -1,7 +1,7 @@
-url: https://ebranch.easystreet.com.au/es-OpenBanking/discovery/status
-status: down
-code: 404
-responseTime: 2009
-lastUpdated: 2024-08-23T12:02:03.197Z
+url: https://ebranch.easystreet.com.au/es-OpenBanking/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 1983
+lastUpdated: 2024-08-23T12:40:53.162Z
 startTime: 2024-08-23T12:02:00.717Z
 generator: Upptime <https://github.com/upptime/upptime>
