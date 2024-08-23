@@ -1,7 +1,7 @@
-url: https://public.cdr.alintaenergy.com.au/discovery/status
+url: https://public.cdr.alintaenergy.com.au/cds-au/v1/energy/plans
 status: down
 code: 404
-responseTime: 858
-lastUpdated: 2024-08-23T11:59:46.827Z
+responseTime: 928
+lastUpdated: 2024-08-23T12:38:46.066Z
 startTime: 2024-08-23T11:59:45.518Z
 generator: Upptime <https://github.com/upptime/upptime>
