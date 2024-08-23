@@ -6,7 +6,7 @@ sites:
   - name: 1st Energy
     data_holder_brand_id: ee8b5d25-93ae-ee11-a81c-0022481494e2
     is_interim: false
-    url: https://public.cdr.1stenergy.com.au/discovery/status
+    url: https://public.cdr.1stenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/1st_Energy-1stEnergy_colour_RGB.png
     iconUrl: https://1stenergy.com.au/wp-content/uploads/2023/11/1stEnergy_colour_RGB.png
@@ -14,11 +14,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ActewAGL
     data_holder_brand_id: de70398c-7e35-ee11-a83d-000d3a8830d6
     is_interim: false
-    url: https://public.cdr.actewagl.com.au/discovery/status
+    url: https://public.cdr.actewagl.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ActewAGL-actewagl_logo_green.png
     iconUrl: >-
@@ -27,11 +27,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Active Utilities Retail
     data_holder_brand_id: fb416e50-6dda-470e-a2aa-a108efd433b4
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/active-utilities/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/active-utilities/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Active_Utilities_Retail-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -39,11 +39,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Adelaide Bank
     data_holder_brand_id: 0b101c48-da30-478f-910c-377f047ae821
     is_interim: true
-    url: https://api.cdr.adelaidebank.com.au/discovery/status
+    url: https://api.cdr.adelaidebank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Adelaide_Bank-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -55,7 +55,7 @@ sites:
   - name: AGL
     data_holder_brand_id: d177e382-b12d-ed11-a832-000d3a8830d6
     is_interim: false
-    url: https://public.cdr.agl.com.au/discovery/status
+    url: https://public.cdr.agl.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/AGL-agl-vertical-gradient.svg
     iconUrl: >-
@@ -64,11 +64,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Alex Bank
     data_holder_brand_id: fe051e80-e743-44e1-ae83-a4d6286eb596
     is_interim: true
-    url: https://public.cdr.alex.bank/discovery/status
+    url: https://public.cdr.alex.bank/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Alex_Bank-alex-bank-logo.png
     iconUrl: https://www.alex.bank/assets/alex-bank-logo.png
@@ -80,7 +80,7 @@ sites:
   - name: Alinta Energy
     data_holder_brand_id: 8bd0fd93-9d26-ee11-a83d-000d3a8830d6
     is_interim: false
-    url: https://public.cdr.alintaenergy.com.au/discovery/status
+    url: https://public.cdr.alintaenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Alinta_Energy-alinta_default_logo.png
     iconUrl: >-
@@ -89,11 +89,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Altogether
     data_holder_brand_id: d4aa3c79-ef00-454c-b1f0-dbd01b25bcca
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/altogether/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/altogether/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Altogether-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -101,11 +101,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Amber Electric
     data_holder_brand_id: dbfb4be7-27bf-4335-9d92-7e25f1bb8e2a
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/amber/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/amber/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Amber_Electric-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -113,11 +113,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: AMP Bank
     data_holder_brand_id: f9b52d0f-1e2d-eb11-a835-000d3a8842e1
     is_interim: false
-    url: https://api.cdr-api.amp.com.au/discovery/status
+    url: https://api.cdr-api.amp.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/AMP_Bank-amp-logo-reversed.svg
     iconUrl: https://www.amp.com.au/content/dam/amp-au/data/icons/amp-logo-reversed.svg
@@ -129,7 +129,7 @@ sites:
   - name: Ampol Energy
     data_holder_brand_id: e48e8b94-ff6b-44cf-a572-0dff928cf056
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/ampol/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/ampol/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Ampol_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -137,11 +137,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ANZ
     data_holder_brand_id: f4562bb8-e394-ea11-a831-000d3a8842e1
     is_interim: false
-    url: https://api.anz/discovery/status
+    url: https://api.anz/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ANZ-ANZ-MB-Logo-3rd-Party-RGB.png
     iconUrl: >-
@@ -154,7 +154,7 @@ sites:
   - name: ANZ Plus
     data_holder_brand_id: e89bd6dc-0515-ec11-a826-000d3a884a20
     is_interim: false
-    url: https://cdr.apix.anz/discovery/status
+    url: https://cdr.apix.anz/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ANZ_Plus-ANZPlus-Logo-Blue
     iconUrl: >-
@@ -167,7 +167,7 @@ sites:
   - name: Arab Bank Australia Limited
     data_holder_brand_id: d77535b2-ad4a-ed11-a833-000d3a8830d6
     is_interim: false
-    url: https://public.cdr.arabbank.com.au/discovery/status
+    url: https://public.cdr.arabbank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Arab_Bank_Australia_Limited-abal-logo.svg
     iconUrl: https://www.arabbank.com.au/themes/arabbank/images/abal-logo.svg
@@ -179,7 +179,7 @@ sites:
   - name: Arc Energy Group
     data_holder_brand_id: e7efef1f-22b8-4a15-826c-047f71aa2d20
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/arc-energy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/arc-energy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Arc_Energy_Group-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -187,11 +187,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ARCLINE by RACV
     data_holder_brand_id: 8a28d246-46ba-4ff3-afcd-14b7d728fa1c
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/arcline/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/arcline/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ARCLINE_by_RACV-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -199,11 +199,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Arcstream
     data_holder_brand_id: bd2863a7-8430-4656-88bf-56bb5c12663c
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/arcstream/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/arcstream/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Arcstream-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -211,11 +211,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Aurora Energy
     data_holder_brand_id: d5693987-1937-4f43-bddc-9df57b1866b0
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/aurora/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/aurora/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Aurora_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -223,11 +223,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Aussie Home Loans
     data_holder_brand_id: 23cf60aa-2fbd-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://aussie.openportal.com.au/discovery/status
+    url: https://aussie.openportal.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Aussie_Home_Loans-aussiehomeloans-logo.png
     iconUrl: >-
@@ -240,7 +240,7 @@ sites:
   - name: Australian Military Bank
     data_holder_brand_id: 2ee9e2a8-1c98-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://public.open.australianmilitarybank.com.au/discovery/status
+    url: https://public.open.australianmilitarybank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Australian_Military_Bank-amb_logo_478.png
     iconUrl: >-
@@ -253,7 +253,8 @@ sites:
   - name: Australian Mutual Bank LTD
     data_holder_brand_id: c289cfa3-b00b-ec11-a826-000d3a884a20
     is_interim: false
-    url: https://internetbanking.australianmutual.bank/openbanking/discovery/status
+    url: >-
+      https://internetbanking.australianmutual.bank/openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Australian_Mutual_Bank_LTD-logo.png
     iconUrl: https://internetbanking.australianmutual.bank/openbanking/logo.png
@@ -265,7 +266,7 @@ sites:
   - name: Australian Unity Bank
     data_holder_brand_id: 6de12fb5-acc9-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://open-banking.australianunity.com.au/discovery/status
+    url: https://open-banking.australianunity.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Australian_Unity_Bank-au-180years-logo.svg
     iconUrl: >-
@@ -278,7 +279,7 @@ sites:
   - name: Auswide Bank Ltd
     data_holder_brand_id: 036fc691-efae-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://api.auswidebank.com.au/openbanking/discovery/status
+    url: https://api.auswidebank.com.au/openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Auswide_Bank_Ltd-auswide-bank-logo.svg
     iconUrl: >-
@@ -291,7 +292,7 @@ sites:
   - name: AWA Alliance Bank
     data_holder_brand_id: 346b70aa-a70e-425d-bc9b-9b8b8c8c5a4e
     is_interim: true
-    url: https://api.cdr.awaalliancebank.com.au/discovery/status
+    url: https://api.cdr.awaalliancebank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/AWA_Alliance_Bank-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -303,7 +304,7 @@ sites:
   - name: Bank Australia
     data_holder_brand_id: 578efc60-4eb1-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.bankaust.com.au/discovery/status
+    url: https://public.cdr-api.bankaust.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Bank_Australia-ba_horizontal_logo.png
     iconUrl: >-
@@ -316,7 +317,7 @@ sites:
   - name: Bank First
     data_holder_brand_id: 6033e46f-ea9c-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://public.cdr.bankfirst.com.au/discovery/status
+    url: https://public.cdr.bankfirst.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Bank_First-Bank+First+Logo+Horizontal+Navy+RGB
     iconUrl: >-
@@ -329,7 +330,7 @@ sites:
   - name: Bank of China
     data_holder_brand_id: 457ab798-5811-ec11-a826-000d3a884a20
     is_interim: false
-    url: https://api-gateway.bankofchina.com.au/discovery/status
+    url: https://api-gateway.bankofchina.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Bank_of_China-BOC+logo.JPG
     iconUrl: https://boc-resources.s3.ap-southeast-2.amazonaws.com/images/BOC+logo.JPG
@@ -341,7 +342,7 @@ sites:
   - name: Bank of Melbourne
     data_holder_brand_id: 5570db5a-e5ae-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://digital-api.bankofmelbourne.com.au/discovery/status
+    url: https://digital-api.bankofmelbourne.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Bank_of_Melbourne-BOM-logo_1200x1200.jpg
     iconUrl: >-
@@ -354,7 +355,7 @@ sites:
   - name: Bank of Queensland Limited
     data_holder_brand_id: 227cc6c0-350d-ec11-a826-000d3a884a20
     is_interim: false
-    url: https://api.cds.boq.com.au/discovery/status
+    url: https://api.cds.boq.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Bank_of_Queensland_Limited-boq-logo2.png
     iconUrl: >-
@@ -367,7 +368,7 @@ sites:
   - name: Bank of Sydney
     data_holder_brand_id: 9bd98cf1-5c97-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://openbank.api.banksyd.com.au/discovery/status
+    url: https://openbank.api.banksyd.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Bank_of_Sydney-bos-logo-edge-fix.svg
     iconUrl: https://www.banksyd.com.au/globalassets/images/logos/bos-logo-edge-fix.svg
@@ -379,7 +380,7 @@ sites:
   - name: Bank of us
     data_holder_brand_id: db914c7a-3d09-ec11-a826-000d3a884a20
     is_interim: false
-    url: https://api.bankofus.com.au/OpenBanking/discovery/status
+    url: https://api.bankofus.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Bank_of_us-Logo.png
     iconUrl: https://api.bankofus.com.au/OpenBanking/Logo.png
@@ -391,7 +392,7 @@ sites:
   - name: BankSA
     data_holder_brand_id: 01608f70-e4ae-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://digital-api.banksa.com.au/discovery/status
+    url: https://digital-api.banksa.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/BankSA-BSA-logo_1200x1200.jpg
     iconUrl: https://www.banksa.com.au/content/dam/bsa/images/home/BSA-logo_1200x1200.jpg
@@ -403,7 +404,7 @@ sites:
   - name: BankVic
     data_holder_brand_id: 09f9da8a-78bf-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://ib.bankvic.com.au/openbanking/discovery/status
+    url: https://ib.bankvic.com.au/openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/BankVic-BankVic-logo.svg
     iconUrl: >-
@@ -416,7 +417,7 @@ sites:
   - name: bankWAW
     data_holder_brand_id: d4ba9bdd-eede-eb11-a824-000d3a884a20
     is_interim: false
-    url: https://onlinebanking.wawcu.com.au/OpenBanking/discovery/status
+    url: https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/bankWAW-logo.png
     iconUrl: https://onlinebanking.wawcu.com.au/OpenBanking/logo.png
@@ -428,7 +429,7 @@ sites:
   - name: Bankwest
     data_holder_brand_id: ae94b39d-6f30-eb11-a81d-000d3a884a20
     is_interim: false
-    url: https://open-api.bankwest.com.au/bwpublic/discovery/status
+    url: https://open-api.bankwest.com.au/bwpublic/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Bankwest-logo-bankwest-horizontal-charcoal.png
     iconUrl: >-
@@ -441,7 +442,7 @@ sites:
   - name: BCU Bank
     data_holder_brand_id: 902e9d5b-e4ab-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.bcu.com.au/discovery/status
+    url: https://public.cdr-api.bcu.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/BCU_Bank-XnIMb18a
     iconUrl: https://broker.pnbank.info/XnIMb18a
@@ -453,7 +454,7 @@ sites:
   - name: Bell Potter
     data_holder_brand_id: 93cde71f-4abd-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://bellpotter.openportal.com.au/discovery/status
+    url: https://bellpotter.openportal.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Bell_Potter-bellpotter-logo.png
     iconUrl: >-
@@ -466,7 +467,7 @@ sites:
   - name: Bendigo Bank
     data_holder_brand_id: 459574b5-999d-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://api.cdr.bendigobank.com.au/discovery/status
+    url: https://api.cdr.bendigobank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Bendigo_Bank-bendigobank-logo.png
     iconUrl: >-
@@ -479,7 +480,7 @@ sites:
   - name: Besy
     data_holder_brand_id: ea94715b-96fa-4ed2-9a44-6a7f1f40676c
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/besy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/besy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Besy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -487,11 +488,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Beyond Bank Australia
     data_holder_brand_id: 5aee067e-1664-eb11-a81f-000d3a884a20
     is_interim: false
-    url: https://public.cdr.api.beyondbank.com.au/discovery/status
+    url: https://public.cdr.api.beyondbank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Beyond_Bank_Australia-beyond-bank-logo.svg
     iconUrl: >-
@@ -504,7 +505,7 @@ sites:
   - name: BHCCU
     data_holder_brand_id: 5ae6bbec-939d-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.bhccu.com.au/discovery/status
+    url: https://public.cdr-api.bhccu.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/BHCCU-BHCCU_50-Year_Logo_Combo_large.png
     iconUrl: >-
@@ -517,7 +518,7 @@ sites:
   - name: Blue NRG
     data_holder_brand_id: f120a1b5-4c00-ef11-a73d-002248e1c726
     is_interim: false
-    url: https://public.cdr.bluenrg.com.au/discovery/status
+    url: https://public.cdr.bluenrg.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Blue_NRG-Blue-NRGLogo-Inverted-RGB-1200px-W-72ppi.png
     iconUrl: >-
@@ -526,11 +527,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: BOQ Specialist
     data_holder_brand_id: e7682728-370d-ec11-a826-000d3a884a20
     is_interim: false
-    url: https://api.cds.boqspecialist.com.au/discovery/status
+    url: https://api.cds.boqspecialist.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/BOQ_Specialist-BOQSpecialist_H_CMYK.png
     iconUrl: >-
@@ -543,7 +544,7 @@ sites:
   - name: Brighte Energy
     data_holder_brand_id: 736b2c27-aa4b-4554-987b-80101a93b728
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/brighte/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/brighte/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Brighte_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -551,11 +552,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Cairns bank
     data_holder_brand_id: 79c63de1-b77b-eb11-a820-000d3a884a20
     is_interim: false
-    url: https://openbanking.cairnsbank.com.au/OpenBanking/discovery/status
+    url: https://openbanking.cairnsbank.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Cairns_bank-cairns-bank-logo.png
     iconUrl: >-
@@ -568,7 +569,7 @@ sites:
   - name: Card Services
     data_holder_brand_id: 0a28f0a1-37bc-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://api.openbanking.cardservicesdirect.com.au/discovery/status
+    url: https://api.openbanking.cardservicesdirect.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Card_Services-logo-Card-Services.png
     iconUrl: >-
@@ -581,7 +582,7 @@ sites:
   - name: CBA - CommBiz
     data_holder_brand_id: de48e3c6-aaff-eb11-a826-000d3a884a20
     is_interim: false
-    url: https://cdr.commbiz.api.commbank.com.au/cbzpublic/discovery/status
+    url: https://cdr.commbiz.api.commbank.com.au/cbzpublic/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/CBA___CommBiz-commBank-logo.svg
     iconUrl: https://www.commbank.com.au/content/dam/commbank/commBank-logo.svg
@@ -593,7 +594,7 @@ sites:
   - name: Central Murray Credit Union Limited
     data_holder_brand_id: f9ccd1f0-04a7-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://secure.cmcu.com.au/openbanking/discovery/status
+    url: https://secure.cmcu.com.au/openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Central_Murray_Credit_Union_Limited-header.png
     iconUrl: https://www.cmcu.com.au/images/header.png
@@ -605,7 +606,7 @@ sites:
   - name: Central West CUL
     data_holder_brand_id: a8fcc391-7625-ec11-a827-000d3a884a20
     is_interim: false
-    url: https://ib.cwcu.com.au/openbanking/discovery/status
+    url: https://ib.cwcu.com.au/openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Central_West_CUL-logo.png
     iconUrl: https://ib.cwcu.com.au/OpenBanking/logo.png
@@ -617,7 +618,7 @@ sites:
   - name: Circular Energy
     data_holder_brand_id: 040f7f80-c3b2-4a10-8e15-ebb9f324bad6
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/circular/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/circular/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Circular_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -625,11 +626,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Citi
     data_holder_brand_id: cae03d79-bdc1-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://openbanking.api.citi.com.au/discovery/status
+    url: https://openbanking.api.citi.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Citi-logo-Citi.png
     iconUrl: https://www.cdn.citibank.com/v1/augcb/cbol/files/images/2021/logo-Citi.png
@@ -641,7 +642,7 @@ sites:
   - name: CleanCo Queensland
     data_holder_brand_id: 40c3b4cd-2df1-4d55-843e-a7ff32aa9dc6
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/cleanco/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/cleanco/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/CleanCo_Queensland-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -649,11 +650,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: CleanPeak Energy Retail
     data_holder_brand_id: d2c959ec-e0d4-4fc4-bcb3-2faf8060cd18
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/cleanpeak/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/cleanpeak/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/CleanPeak_Energy_Retail-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -661,11 +662,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Coastline Credit Union
     data_holder_brand_id: 439e1c2a-b0be-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.coastline.com.au/discovery/status
+    url: https://public.cdr-api.coastline.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Coastline_Credit_Union-logo.png
     iconUrl: https://www.coastline.com.au/Themes/Coastline/Content/img/logo.png
@@ -677,7 +678,7 @@ sites:
   - name: Coles Energy
     data_holder_brand_id: db23f052-0bec-48ab-87fe-59290d142704
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/coles/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/coles/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Coles_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -685,11 +686,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Coles Financial Services
     data_holder_brand_id: 5c95f4fd-37bc-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://api.openbanking.secure.coles.com.au/discovery/status
+    url: https://api.openbanking.secure.coles.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Coles_Financial_Services-logo-Coles-Financial-Services.png
     iconUrl: >-
@@ -702,7 +703,7 @@ sites:
   - name: Commander Power & Gas
     data_holder_brand_id: bca9760e-667f-4176-b54b-baf0ed04c9ae
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/commander/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/commander/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Commander_Power___Gas-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -710,11 +711,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: CommBank
     data_holder_brand_id: 25233bad-e494-ea11-a831-000d3a8842e1
     is_interim: false
-    url: https://api.commbank.com.au/public/discovery/status
+    url: https://api.commbank.com.au/public/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/CommBank-cba-stacked.jpg
     iconUrl: https://www.commbank.com.au/content/dam/commbank-assets/cba-stacked.jpg
@@ -726,7 +727,8 @@ sites:
   - name: CommFCU
     data_holder_brand_id: 971e8453-8933-eb11-a835-000d3a8842e1
     is_interim: false
-    url: https://netbank.communityfirst.com.au/cf-OpenBanking/discovery/status
+    url: >-
+      https://netbank.communityfirst.com.au/cf-OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/CommFCU-77808f15-64e8-4ed3-b03d-4b4c49c28ee7
     iconUrl: >-
@@ -739,7 +741,7 @@ sites:
   - name: COVAU PTY LIMITED
     data_holder_brand_id: 32c3ea87-ce3b-ee11-a81c-002248143709
     is_interim: false
-    url: https://public.cdr.covau.com.au/discovery/status
+    url: https://public.cdr.covau.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/COVAU_PTY_LIMITED-covau-logo-300.png
     iconUrl: https://covau.com.au/wp-content/uploads/2022/01/covau-logo-300.png
@@ -747,11 +749,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: CPE Mascot
     data_holder_brand_id: 46b1550c-fd41-40ff-8374-2af6d0cc7293
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/cpe-mascot/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/cpe-mascot/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/CPE_Mascot-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -759,11 +761,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Credit Union SA
     data_holder_brand_id: 9bf24742-68ac-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://openbanking.api.creditunionsa.com.au/discovery/status
+    url: https://openbanking.api.creditunionsa.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Credit_Union_SA-cusa-logo_stacked_trans_250px.png
     iconUrl: >-
@@ -776,7 +778,7 @@ sites:
   - name: DDH Graham
     data_holder_brand_id: bc0774f7-be0e-ec11-a826-000d3a884a20
     is_interim: false
-    url: https://api.cds.ddhgraham.com.au/discovery/status
+    url: https://api.cds.ddhgraham.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/DDH_Graham-DDH_BOQ_512.png
     iconUrl: https://ddhgraham.com.au/wp-content/uploads/DDH_BOQ_512.png
@@ -788,7 +790,7 @@ sites:
   - name: Defence Bank
     data_holder_brand_id: 1a74d48b-7e9e-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://product.defencebank.com.au/discovery/status
+    url: https://product.defencebank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Defence_Bank-logo.svg
     iconUrl: >-
@@ -801,7 +803,7 @@ sites:
   - name: Diamond Energy
     data_holder_brand_id: 40596bd5-f037-ee11-a83d-000d3a8830d6
     is_interim: false
-    url: https://cdr.diamondenergy.com.au:18101/discovery/status
+    url: https://cdr.diamondenergy.com.au:18101/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Diamond_Energy-DE-logo-approved_your-pure-power-people.png
     iconUrl: >-
@@ -810,11 +812,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Discover Energy
     data_holder_brand_id: 89b94654-8f1b-4e49-bcdb-7ab5df451372
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/discover/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/discover/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Discover_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -822,11 +824,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Dnister
     data_holder_brand_id: 3eca8ca0-3da2-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.dnister.com.au/discovery/status
+    url: https://public.cdr-api.dnister.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Dnister-DnisterLogo.gif
     iconUrl: https://www.dnister.com.au/Signature_Deployment/DnisterLogo.gif
@@ -838,7 +840,7 @@ sites:
   - name: Dodo Power & Gas
     data_holder_brand_id: 3b80d279-c455-ee11-a81c-002248e31327
     is_interim: false
-    url: https://public.cdr.dodo.com/discovery/status
+    url: https://public.cdr.dodo.com/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Dodo_Power___Gas-Dodo_Logo_Aug23_V1.svg
     iconUrl: https://s0.2mdn.net/creatives/assets/4983616/Dodo_Logo_Aug23_V1.svg
@@ -846,11 +848,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: EA Connect
     data_holder_brand_id: 6dfc2033-f5ba-4e61-8119-1eac508e0ad1
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/ea-connect/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/ea-connect/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/EA_Connect-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -858,11 +860,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Easy Street
     data_holder_brand_id: 84d1b971-37cf-eb11-a824-000d3a884a20
     is_interim: false
-    url: https://ebranch.easystreet.com.au/es-OpenBanking/discovery/status
+    url: https://ebranch.easystreet.com.au/es-OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Easy_Street-19f6a052-776a-454f-b0aa-cd70ac4259e9
     iconUrl: https://cms.easystreet.com.au/assets/19f6a052-776a-454f-b0aa-cd70ac4259e9
@@ -874,7 +876,8 @@ sites:
   - name: Electricity in a Box
     data_holder_brand_id: dd2dfd26-60e1-44a3-9c29-bc1530941ca3
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/electricity-in-a-box/discovery/status
+    url: >-
+      https://cdr.energymadeeasy.gov.au/electricity-in-a-box/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Electricity_in_a_Box-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -882,11 +885,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Energy Locals
     data_holder_brand_id: 1a7c7ab5-f351-4039-8c99-21ff2a8f1787
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/energy-locals/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/energy-locals/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Energy_Locals-energy-locals-logo.svg
     iconUrl: >-
@@ -895,11 +898,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: EnergyAustralia
     data_holder_brand_id: 1cc7833a-b834-ed11-a832-000d3a8830d6
     is_interim: false
-    url: https://authncdr.energyaustralia.com.au/discovery/status
+    url: https://authncdr.energyaustralia.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/EnergyAustralia-EA_logo.svg
     iconUrl: >-
@@ -908,11 +911,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ENGIE
     data_holder_brand_id: 40128cc1-56f8-ed11-a83b-000d3a8830d6
     is_interim: false
-    url: https://public.cdr.simplyenergy.com.au/discovery/status
+    url: https://public.cdr.simplyenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ENGIE-engie_logo.png
     iconUrl: https://www.engie.com.au/sites/default/files/icons/engie_logo.png
@@ -920,12 +923,12 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ENGIE large business
     data_holder_brand_id: 40f826f2-3ed1-ee11-a73d-6045bd4001ae
     is_interim: false
     url: >-
-      https://public-cdr-engie.bravecloud.com/b1swktl2zamng9xf/public/discovery/status
+      https://public-cdr-engie.bravecloud.com/b1swktl2zamng9xf/public/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ENGIE_large_business-engie_logo.png
     iconUrl: https://www.engie.com.au/sites/default/files/icons/engie_logo.png
@@ -933,11 +936,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Ergon Energy Retail
     data_holder_brand_id: 3a732abd-b2e1-ee11-a73d-6045bd4001ae
     is_interim: false
-    url: https://public.cdr.ergonretail.com.au/discovery/status
+    url: https://public.cdr.ergonretail.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Ergon_Energy_Retail-retail-logo.png
     iconUrl: https://www.ergon.com.au/__data/assets/image/0013/210613/retail-logo.png
@@ -945,11 +948,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ERM Power
     data_holder_brand_id: 2a5c40a1-2354-4847-93fb-d2d0bd1c1e32
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/erm-power/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/erm-power/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ERM_Power-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -957,11 +960,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Evergy
     data_holder_brand_id: d433eba6-dfb2-4d88-94e2-771b1157dd62
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/evergy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/evergy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Evergy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -969,11 +972,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Family First
     data_holder_brand_id: 37d9ab31-6ac2-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://public.cdr.familyfirst.com.au/discovery/status
+    url: https://public.cdr.familyfirst.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Family_First-logo.png
     iconUrl: https://familyfirst.com.au/wp-content/themes/familyfirst/images/logo.png
@@ -985,7 +988,7 @@ sites:
   - name: Fire Service Credit Union
     data_holder_brand_id: c3ab13c0-5dad-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.fscu.com.au/discovery/status
+    url: https://public.cdr-api.fscu.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Fire_Service_Credit_Union-FSCU_logo.png
     iconUrl: https://www.fscu.com.au/wp-content/uploads//2023/11/FSCU_logo.png
@@ -997,7 +1000,7 @@ sites:
   - name: Firefighters Mutual Bank
     data_holder_brand_id: 494c5cad-30b1-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://ob.tmbl.com.au/fmbank/discovery/status
+    url: https://ob.tmbl.com.au/fmbank/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Firefighters_Mutual_Bank-logodesktop.ashx
     iconUrl: >-
@@ -1010,7 +1013,8 @@ sites:
   - name: First Option Bank
     data_holder_brand_id: 19568386-2b43-eb11-a81e-000d3a884a20
     is_interim: false
-    url: https://internetbanking.firstoption.com.au/OpenBanking/discovery/status
+    url: >-
+      https://internetbanking.firstoption.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/First_Option_Bank-FO_Bank_logo_black.png
     iconUrl: >-
@@ -1023,7 +1027,7 @@ sites:
   - name: Flow Power
     data_holder_brand_id: ee434966-7168-4884-9b98-98d71bd3ef3c
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/flow-power/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/flow-power/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Flow_Power-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1031,11 +1035,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Flow Systems
     data_holder_brand_id: 4f4e5544-4b5b-475d-bb1e-3ea51e60412b
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/flow-systems/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/flow-systems/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Flow_Systems-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1043,11 +1047,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Future X Power
     data_holder_brand_id: f112314b-b7f3-45a0-b586-49573f8953ce
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/future-x/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/future-x/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Future_X_Power-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1055,11 +1059,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: G&C Mutual Bank
     data_holder_brand_id: 977a8f05-7c7c-eb11-a820-000d3a884a20
     is_interim: false
-    url: https://ibank.gcmutualbank.com.au/OpenBanking/discovery/status
+    url: https://ibank.gcmutualbank.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/G_C_Mutual_Bank-gc-mutual-bank-logo.png
     iconUrl: https://www.gcmutual.bank/media/3018/gc-mutual-bank-logo.png
@@ -1071,7 +1075,7 @@ sites:
   - name: Gateway Bank
     data_holder_brand_id: 298987af-3ead-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.gatewaybank.com.au/discovery/status
+    url: https://public.cdr-api.gatewaybank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Gateway_Bank-gway-logo.png
     iconUrl: https://www.gatewaybank.com.au/Client_Theme/imgs/gway-logo.png
@@ -1083,7 +1087,7 @@ sites:
   - name: GEE Energy
     data_holder_brand_id: a983ebe7-14b5-4c15-8d69-6d5aac7f47ef
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/gee-energy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/gee-energy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/GEE_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1091,11 +1095,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Geelong Bank
     data_holder_brand_id: 7bae67c0-a280-eb11-a820-000d3a884a20
     is_interim: false
-    url: https://online.geelongbank.com.au/OpenBanking/discovery/status
+    url: https://online.geelongbank.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Geelong_Bank-geelongbank_logotag_horizontal.png
     iconUrl: https://geelongbank.com.au/media/2007/geelongbank_logotag_horizontal.png
@@ -1107,7 +1111,7 @@ sites:
   - name: GloBird Energy
     data_holder_brand_id: c12829c8-3a63-ee11-a81c-002248e31327
     is_interim: false
-    url: https://publiccdr.globirdenergy.com.au/discovery/status
+    url: https://publiccdr.globirdenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/GloBird_Energy-GloBird_web_logo.svg
     iconUrl: >-
@@ -1116,11 +1120,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Glow Power
     data_holder_brand_id: 6fd3819d-4c31-4525-82cc-bd6f445af3d2
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/glow-power/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/glow-power/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Glow_Power-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1128,11 +1132,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: gmcu
     data_holder_brand_id: 4cde889c-9bbe-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://secure.gmcu.com.au/OpenBanking/discovery/status
+    url: https://secure.gmcu.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/gmcu-gmcu-logo-2021.png
     iconUrl: https://gmcu.com.au/images/layout/gmcu-logo-2021.png
@@ -1144,7 +1148,7 @@ sites:
   - name: Goldfields Money
     data_holder_brand_id: 6cb8e276-06fb-40d1-beee-ea188c962fbb
     is_interim: true
-    url: https://prd.bnk.com.au/discovery/status
+    url: https://prd.bnk.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Goldfields_Money-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1156,7 +1160,7 @@ sites:
   - name: Great Southern Bank
     data_holder_brand_id: aff66646-9ad8-eb11-a824-000d3a884a20
     is_interim: false
-    url: https://api.open-banking.greatsouthernbank.com.au/discovery/status
+    url: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Great_Southern_Bank-logo.svg
     iconUrl: https://www.greatsouthernbank.com.au/media/images/global/logo.svg
@@ -1168,7 +1172,8 @@ sites:
   - name: Great Southern Bank Business+
     data_holder_brand_id: 7539fe61-f2e3-ed11-a83a-000d3a8830d6
     is_interim: false
-    url: https://api.open-banking.business.greatsouthernbank.com.au/discovery/status
+    url: >-
+      https://api.open-banking.business.greatsouthernbank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Great_Southern_Bank_Business_-logo.svg
     iconUrl: https://www.greatsouthernbank.com.au/media/images/global/logo.svg
@@ -1180,7 +1185,7 @@ sites:
   - name: Greater Bank
     data_holder_brand_id: 55aec763-b78a-49d9-a5e1-767469cbd752
     is_interim: true
-    url: https://public.cdr-api.greater.com.au/discovery/status
+    url: https://public.cdr-api.greater.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Greater_Bank-greaterbanklogo.jpg
     iconUrl: https://www.greater.com.au/globalassets/images/logos/greaterbanklogo.jpg
@@ -1192,7 +1197,7 @@ sites:
   - name: Health Professionals Bank
     data_holder_brand_id: 3445ce0d-31b1-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://ob.tmbl.com.au/hpbank/discovery/status
+    url: https://ob.tmbl.com.au/hpbank/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Health_Professionals_Bank-hpblogodesktop.ashx
     iconUrl: >-
@@ -1205,7 +1210,7 @@ sites:
   - name: Heartland
     data_holder_brand_id: 567d75c9-3c35-ec11-a828-000d3a884a20
     is_interim: false
-    url: https://api.cdr.heartlandbank.com.au/discovery/status
+    url: https://api.cdr.heartlandbank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Heartland-heartland-bank-logo-white-on-midnight-blue.jpg
     iconUrl: >-
@@ -1218,7 +1223,7 @@ sites:
   - name: Heritage Bank
     data_holder_brand_id: 02a63e21-bd3d-eb11-a835-000d3a8842e1
     is_interim: false
-    url: https://product.api.heritage.com.au/discovery/status
+    url: https://product.api.heritage.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Heritage_Bank-logo
     iconUrl: https://www.heritage.com.au/Inbound/Open-Banking/logo
@@ -1230,7 +1235,7 @@ sites:
   - name: Hiver Bank
     data_holder_brand_id: e203dff9-32b1-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://ob.tmbl.com.au/hiver/discovery/status
+    url: https://ob.tmbl.com.au/hiver/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Hiver_Bank-hiver.jpg
     iconUrl: https://hiver.bank/Client_Theme/errors/images/hiver.jpg
@@ -1242,7 +1247,8 @@ sites:
   - name: Horizon Bank
     data_holder_brand_id: 5c2e8067-d2de-eb11-a824-000d3a884a20
     is_interim: false
-    url: https://onlinebanking.horizonbank.com.au/openbanking/discovery/status
+    url: >-
+      https://onlinebanking.horizonbank.com.au/openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Horizon_Bank-horizon_logo.png
     iconUrl: https://horizonbank.com.au/Client_Theme/imgs/horizon_logo.png
@@ -1254,7 +1260,7 @@ sites:
   - name: HSBC
     data_holder_brand_id: ca0ad1c8-c0b3-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://public.ob.hsbc.com.au/discovery/status
+    url: https://public.ob.hsbc.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/HSBC-01_HSBC_MASTERBRAND_LOGO_RGB.svg
     iconUrl: >-
@@ -1267,7 +1273,7 @@ sites:
   - name: HSBC Bank Australia Limited – Wholesale Banking
     data_holder_brand_id: 94847394-0cfd-ec11-a830-000d3a8830d6
     is_interim: false
-    url: https://public.ob.business.hsbc.com.au/discovery/status
+    url: https://public.ob.business.hsbc.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/HSBC_Bank_Australia_Limited___Wholesale_Banking-01_HSBC_MASTERBRAND_LOGO_RGB.svg
     iconUrl: >-
@@ -1280,7 +1286,7 @@ sites:
   - name: Hume Bank
     data_holder_brand_id: 5de290be-a7e2-eb11-a824-000d3a884a20
     is_interim: false
-    url: https://ibankob.humebank.com.au/OpenBanking/discovery/status
+    url: https://ibankob.humebank.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Hume_Bank-humebank.png
     iconUrl: https://ibankob.humebank.com.au/humebank.png
@@ -1292,7 +1298,7 @@ sites:
   - name: Humenergy Group
     data_holder_brand_id: 126f03dc-3947-428b-99fd-685b94fe1363
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/humenergy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/humenergy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Humenergy_Group-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1300,11 +1306,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: iGENO
     data_holder_brand_id: 3e2d5a2a-2fb4-4ef6-bf7f-86e2f68ef620
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/igeno/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/igeno/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/iGENO-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1312,11 +1318,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Illawarra Credit Union Limited
     data_holder_brand_id: 6fc399cd-1ec8-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://onlineteller.cu.com.au/OpenBanking/discovery/status
+    url: https://onlineteller.cu.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Illawarra_Credit_Union_Limited-logo.png
     iconUrl: >-
@@ -1329,7 +1335,7 @@ sites:
   - name: IMB Bank
     data_holder_brand_id: 8d07eed3-588c-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://openbank.openbanking.imb.com.au/discovery/status
+    url: https://openbank.openbanking.imb.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/IMB_Bank-IMB-logo.svg
     iconUrl: https://www.imb.com.au/templates/client/images/header/IMB-logo.svg
@@ -1341,7 +1347,7 @@ sites:
   - name: ING BANK (Australia) Ltd
     data_holder_brand_id: fc9352a8-ad27-eb11-a834-000d3a8842e1
     is_interim: false
-    url: https://id.ob.ing.com.au/discovery/status
+    url: https://id.ob.ing.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ING_BANK__Australia__Ltd-ING_Primary_Logo_RGB.png
     iconUrl: https://www.ing.com.au/img/logos/ING_Primary_Logo_RGB.png
@@ -1353,7 +1359,7 @@ sites:
   - name: Judo Bank
     data_holder_brand_id: dd301af3-93b7-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://public.open.judo.bank/discovery/status
+    url: https://public.open.judo.bank/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Judo_Bank-1ddcbc50-08b1-4472-9267-85da3bb20c83.svg
     iconUrl: https://cdn.unifii.net/judobank/1ddcbc50-08b1-4472-9267-85da3bb20c83.svg
@@ -1365,7 +1371,7 @@ sites:
   - name: Kogan Energy
     data_holder_brand_id: 49298578-5132-ee11-a83d-000d3a8830d6
     is_interim: false
-    url: https://public.cdr.koganenergy.com.au/discovery/status
+    url: https://public.cdr.koganenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Kogan_Energy-kogan-energy.png
     iconUrl: https://s45145.pcdn.co/wp-content/uploads/2023/06/kogan-energy.png
@@ -1373,11 +1379,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Kogan Money Credit Cards
     data_holder_brand_id: 66bb688e-38bc-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://api.openbanking.cards.koganmoney.com.au/discovery/status
+    url: https://api.openbanking.cards.koganmoney.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Kogan_Money_Credit_Cards-logo-Kogan-Money.png
     iconUrl: >-
@@ -1390,7 +1396,7 @@ sites:
   - name: Laboratories Credit Union
     data_holder_brand_id: cdff6335-a5be-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://internetbanking.lcu.com.au/OpenBanking/discovery/status
+    url: https://internetbanking.lcu.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Laboratories_Credit_Union-lcu-logo.gif
     iconUrl: https://www.lcu.com.au/templates/client/images/header/lcu-logo.gif
@@ -1402,7 +1408,8 @@ sites:
   - name: Liberty Financial
     data_holder_brand_id: 556fe6e2-d208-ef11-989a-6045bd4001ae
     is_interim: false
-    url: https://services.liberty.com.au/api/data-holder-public/discovery/status
+    url: >-
+      https://services.liberty.com.au/api/data-holder-public/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Liberty_Financial-Liberty-Aero-Horizontal-RGB.jpg
     iconUrl: >-
@@ -1415,7 +1422,7 @@ sites:
   - name: Locality Planning Energy
     data_holder_brand_id: d1c6becb-c00e-4e23-8117-227a4ecc03b0
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/locality-planning/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/locality-planning/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Locality_Planning_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1423,11 +1430,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Localvolts
     data_holder_brand_id: 9f59f54f-aeec-44ff-b481-a7e10be6a28e
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/localvolts/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/localvolts/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Localvolts-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1435,11 +1442,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Lumo Energy
     data_holder_brand_id: dc328d2c-a56c-ee11-a81c-002248e31327
     is_interim: false
-    url: https://public.cdr.lumoenergy.com.au/discovery/status
+    url: https://public.cdr.lumoenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Lumo_Energy-logo--lumo.svg
     iconUrl: https://www.lumoenergy.com.au/assets/images/logo--lumo.svg
@@ -1447,11 +1454,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Macquarie
     data_holder_brand_id: 81e1f31b-c676-4f7b-8648-4a59b29be236
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/macquarie/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/macquarie/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Macquarie-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1459,11 +1466,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Macquarie Bank Limited
     data_holder_brand_id: d64b7811-21bc-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://api.macquariebank.io/discovery/status
+    url: https://api.macquariebank.io/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Macquarie_Bank_Limited-macquarie-logo_black.svg
     iconUrl: https://www.macquarie.com.au/assets/bfs/global/macquarie-logo_black.svg
@@ -1475,7 +1482,7 @@ sites:
   - name: Macquarie Credit Union
     data_holder_brand_id: d1674859-0c3a-4206-8a94-1f5e32144848
     is_interim: true
-    url: https://banking.macquariecu.com.au/OpenBanking/discovery/status
+    url: https://banking.macquariecu.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Macquarie_Credit_Union-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1487,7 +1494,7 @@ sites:
   - name: Maitland Mutual Limited
     data_holder_brand_id: 49c500b3-dacf-eb11-a824-000d3a884a20
     is_interim: false
-    url: https://openbanking.themutual.com.au/OpenBanking/discovery/status
+    url: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Maitland_Mutual_Limited-logo.png
     iconUrl: https://openbanking.themutual.com.au/OpenBanking/logo.png
@@ -1499,7 +1506,7 @@ sites:
   - name: ME Bank
     data_holder_brand_id: a26fd60b-14ba-ec11-a82d-000d3a8830d6
     is_interim: false
-    url: https://public.openbank.mebank.com.au/discovery/status
+    url: https://public.openbank.mebank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ME_Bank-ME-logo-600px-black-transparent.png
     iconUrl: >-
@@ -1512,7 +1519,7 @@ sites:
   - name: ME Bank - ME Go
     data_holder_brand_id: 78883a14-67ae-ed11-a838-000d3a8830d6
     is_interim: false
-    url: https://api.cds.mebank.com.au/discovery/status
+    url: https://api.cds.mebank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ME_Bank___ME_Go-ME-logo-600px-black-transparent.png
     iconUrl: >-
@@ -1525,7 +1532,7 @@ sites:
   - name: Metered Energy Holdings Pty Ltd
     data_holder_brand_id: cd90f1f3-a930-4674-9ce7-18a9dbc1eeb3
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/metered-energy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/metered-energy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Metered_Energy_Holdings_Pty_Ltd-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1533,11 +1540,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Microgrid Power
     data_holder_brand_id: db8a51cd-63f3-4979-8002-e410cb95a8f3
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/microgrid/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/microgrid/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Microgrid_Power-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1545,11 +1552,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Momentum Energy
     data_holder_brand_id: a18c6866-f45c-ee11-a81c-002248e31327
     is_interim: false
-    url: https://public.cdr.momentumenergy.com.au/discovery/status
+    url: https://public.cdr.momentumenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Momentum_Energy-logo.svg
     iconUrl: https://www.momentumenergy.com.au/assets/images/logo.svg
@@ -1557,11 +1564,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: MOVE Bank
     data_holder_brand_id: 89d458be-14ae-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://openbanking.movebank.com.au/OpenBanking/discovery/status
+    url: https://openbanking.movebank.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/MOVE_Bank-move-bank-logo-website.png
     iconUrl: https://movebank.com.au/media/3405/move-bank-logo-website.png
@@ -1573,7 +1580,7 @@ sites:
   - name: MyState Bank
     data_holder_brand_id: 0be156cc-2eae-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://openbank.api.mystate.com.au/discovery/status
+    url: https://openbank.api.mystate.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/MyState_Bank-MyState_Logo_s.png
     iconUrl: https://mystate.com.au/wp-content/uploads/MyState_Logo_s.png
@@ -1585,7 +1592,7 @@ sites:
   - name: NATIONAL AUSTRALIA BANK
     data_holder_brand_id: 25797662-e294-ea11-a831-000d3a8842e1
     is_interim: false
-    url: https://openbank.api.nab.com.au/discovery/status
+    url: https://openbank.api.nab.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/NATIONAL_AUSTRALIA_BANK-logo.png
     iconUrl: https://www.nab.com.au/etc/designs/nabrwd/clientlibs/images/logo.png
@@ -1597,7 +1604,7 @@ sites:
   - name: Nectr
     data_holder_brand_id: 47dd2161-c951-ee11-a81c-002248e31327
     is_interim: false
-    url: https://public.cdr.nectr.com.au/discovery/status
+    url: https://public.cdr.nectr.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Nectr-header-logo.svg
     iconUrl: https://nectr.com.au/wp-content/uploads/2023/04/header-logo.svg
@@ -1605,11 +1612,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Newcastle Permanent Building Society
     data_holder_brand_id: d5306c4e-ea83-ec11-a82b-000d3a884a20
     is_interim: false
-    url: https://openbank.newcastlepermanent.com.au/discovery/status
+    url: https://openbank.newcastlepermanent.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Newcastle_Permanent_Building_Society-NPBS-LOGO
     iconUrl: https://www.newcastlepermanent.com.au/-/media/images/NPBS-LOGO
@@ -1621,7 +1628,7 @@ sites:
   - name: Next Business Energy
     data_holder_brand_id: 4f2f096c-5841-ee11-a81c-002248143709
     is_interim: false
-    url: https://public.cdr.nextbusinessenergy.com.au/discovery/status
+    url: https://public.cdr.nextbusinessenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Next_Business_Energy-nbe-logo.png
     iconUrl: https://nextbusinessenergy.com.au/logo/nbe-logo.png
@@ -1629,11 +1636,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Northern Inland Credit Union Limited
     data_holder_brand_id: d1aafe41-365b-ed11-a834-000d3a8830d6
     is_interim: false
-    url: https://secure.nicu.com.au/OpenBanking/discovery/status
+    url: https://secure.nicu.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Northern_Inland_Credit_Union_Limited-NICUlogo.png
     iconUrl: https://nicu.com.au/images/UserUploadedImages/11/NICUlogo.png
@@ -1645,7 +1652,8 @@ sites:
   - name: On by EnergyAustralia
     data_holder_brand_id: c5232022-a219-4892-a05d-01419c8a37cb
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/on-by-energyaustralia/discovery/status
+    url: >-
+      https://cdr.energymadeeasy.gov.au/on-by-energyaustralia/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/On_by_EnergyAustralia-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1653,11 +1661,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ORANGE CREDIT UNION LTD
     data_holder_brand_id: 54eff5f1-2ac4-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://online.orangecu.com.au/openbanking/discovery/status
+    url: https://online.orangecu.com.au/openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ORANGE_CREDIT_UNION_LTD-logo.png
     iconUrl: https://online.orangecu.com.au/openbanking/logo.png
@@ -1669,7 +1677,7 @@ sites:
   - name: Origin Energy
     data_holder_brand_id: 244d8a80-3828-ed11-a832-000d3a8830d6
     is_interim: false
-    url: https://public.mydata.cdr.originenergy.com.au/discovery/status
+    url: https://public.mydata.cdr.originenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Origin_Energy-origin-energy-logo.png
     iconUrl: >-
@@ -1678,11 +1686,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: OVO Energy
     data_holder_brand_id: 098b7b04-de22-ef11-8ee7-00224814bfdf
     is_interim: false
-    url: https://public.cdr.ovoenergy.com.au/discovery/status
+    url: https://public.cdr.ovoenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/OVO_Energy-ovo_energy_full_green_logo.png
     iconUrl: https://email-assets.ovoenergy.com.au/ovo_energy_full_green_logo.png
@@ -1690,11 +1698,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: P&N Bank
     data_holder_brand_id: 14037661-e1ab-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.pnbank.com.au/discovery/status
+    url: https://public.cdr-api.pnbank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/P_N_Bank-Nu6HWNxl
     iconUrl: https://broker.pnbank.info/Nu6HWNxl
@@ -1706,7 +1714,7 @@ sites:
   - name: Pacific Blue Retail
     data_holder_brand_id: d37e16d2-dd5d-ee11-a81c-002248e31327
     is_interim: false
-    url: https://public.cdr.pacificblue.com.au/discovery/status
+    url: https://public.cdr.pacificblue.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Pacific_Blue_Retail-Pacific_Blue_300px.png
     iconUrl: >-
@@ -1715,11 +1723,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: PayPal Australia
     data_holder_brand_id: ebcbaeb6-539f-ec11-a82c-000d3a8830d6
     is_interim: false
-    url: https://api.paypal.com/v1/identity/discovery/status
+    url: https://api.paypal.com/v1/identity/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/PayPal_Australia-pp_h_rgb.jpg
     iconUrl: https://newsroom.au.paypal-corp.com/image/pp_h_rgb.jpg
@@ -1731,7 +1739,7 @@ sites:
   - name: People Energy
     data_holder_brand_id: 34ae9e94-158a-4d3e-9a0f-3682ab04dd15
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/people-energy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/people-energy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/People_Energy-logo.png
     iconUrl: https://peopleenergy.com.au/images/logo.png
@@ -1739,11 +1747,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: People's Choice
     data_holder_brand_id: b111c64b-b6c9-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://ob-public.peopleschoice.com.au/discovery/status
+    url: https://ob-public.peopleschoice.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/People_s_Choice-600x600_peoples_choice_banking_for_life_logo
     iconUrl: >-
@@ -1756,7 +1764,7 @@ sites:
   - name: Police Bank
     data_holder_brand_id: f136007d-bab7-4a4d-adaf-55bfb4d654d7
     is_interim: true
-    url: https://product.api.policebank.com.au/discovery/status
+    url: https://product.api.policebank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Police_Bank-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1768,7 +1776,7 @@ sites:
   - name: Police Credit Union Ltd
     data_holder_brand_id: e9a1ff83-96c2-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://api.policecu.com.au/OpenBanking/discovery/status
+    url: https://api.policecu.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Police_Credit_Union_Ltd-LoginLogo.png
     iconUrl: >-
@@ -1781,7 +1789,7 @@ sites:
   - name: Powerdirect
     data_holder_brand_id: c43e786c-ce1f-48f2-b551-8a8e5c67cf47
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/powerdirect/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/powerdirect/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Powerdirect-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1789,11 +1797,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: PowerHub
     data_holder_brand_id: 9a676d1f-6ec5-48a4-98af-5a2ab293d373
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/powerhub/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/powerhub/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/PowerHub-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1801,11 +1809,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Powershop
     data_holder_brand_id: 6aaeaf9b-5132-ee11-a83d-000d3a8830d6
     is_interim: false
-    url: https://public.cdr.powershop.com.au/discovery/status
+    url: https://public.cdr.powershop.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Powershop-image
     iconUrl: >-
@@ -1814,11 +1822,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Powow Power
     data_holder_brand_id: 499d880c-ee78-44ba-9442-a275f9465290
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/powow/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/powow/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Powow_Power-logo-whitepowowpower.png
     iconUrl: >-
@@ -1827,11 +1835,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Qantas Premier Credit Cards
     data_holder_brand_id: 640ec6df-38bc-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://api.openbanking.qantasmoney.com/discovery/status
+    url: https://api.openbanking.qantasmoney.com/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Qantas_Premier_Credit_Cards-qantas-money-logo-sm.svg
     iconUrl: https://assets.qantasmoney.com/logos/qantas-money-logo-sm.svg
@@ -1843,7 +1851,7 @@ sites:
   - name: QBANK
     data_holder_brand_id: 2830e32a-4edd-eb11-a824-000d3a884a20
     is_interim: false
-    url: https://banking.qbank.com.au/openbanking/discovery/status
+    url: https://banking.qbank.com.au/openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/QBANK-qbank-logo.svg
     iconUrl: https://www.qbank.com.au/media/logo/qbank-logo.svg
@@ -1855,7 +1863,7 @@ sites:
   - name: Qudos Bank
     data_holder_brand_id: ac4892a0-44ad-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.qudosbank.com.au/discovery/status
+    url: https://public.cdr-api.qudosbank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Qudos_Bank-logo-60.svg
     iconUrl: https://www.qudosbank.com.au/templates/client/images/logo-60.svg
@@ -1867,7 +1875,7 @@ sites:
   - name: Queensland Country Bank
     data_holder_brand_id: 7179a2ee-f6a2-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.queenslandcountry.bank/discovery/status
+    url: https://public.cdr-api.queenslandcountry.bank/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Queensland_Country_Bank-qccu-logo--33a69599896efed86b7bae1d3f3e9ca6.svg
     iconUrl: >-
@@ -1880,7 +1888,7 @@ sites:
   - name: Rabobank
     data_holder_brand_id: 3312bd10-ba3d-eb11-a835-000d3a8842e1
     is_interim: false
-    url: https://openbanking.api.rabobank.com.au/public/discovery/status
+    url: https://openbanking.api.rabobank.com.au/public/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Rabobank-rb-logo-stacked-200x242px.png
     iconUrl: >-
@@ -1893,7 +1901,7 @@ sites:
   - name: RACQ Bank
     data_holder_brand_id: 79e00408-cb0e-ec11-a826-000d3a884a20
     is_interim: false
-    url: https://cdrbank.racq.com.au/discovery/status
+    url: https://cdrbank.racq.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/RACQ_Bank-RACQ-BANK-LOGO_HOR_RGB.png
     iconUrl: >-
@@ -1906,7 +1914,7 @@ sites:
   - name: Radian Energy
     data_holder_brand_id: 4fd2ea8f-504b-4432-a5ca-d6d6a22fa5c8
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/radian/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/radian/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Radian_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1914,11 +1922,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: RAMS Financial Group Pty Ltd
     data_holder_brand_id: 9a8b4000-e9ae-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://digital-api.westpac.com.au/rams/discovery/status
+    url: https://digital-api.westpac.com.au/rams/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/RAMS_Financial_Group_Pty_Ltd-rams_logo.png
     iconUrl: https://www.rams.com.au/siteassets/homepage/rams_logo.png
@@ -1930,7 +1938,7 @@ sites:
   - name: Real Utilities
     data_holder_brand_id: a10b23c3-af4d-458a-a22b-7b91ba09e8d2
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/real-utilities/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/real-utilities/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Real_Utilities-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1938,11 +1946,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ReAmped Energy
     data_holder_brand_id: 8a3bdc5f-f702-4660-85b6-cfb321b845f4
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/reamped/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/reamped/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ReAmped_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -1950,11 +1958,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Red Energy
     data_holder_brand_id: 39230258-a56c-ee11-a81c-002248e31327
     is_interim: false
-    url: https://public.cdr.redenergy.com.au/discovery/status
+    url: https://public.cdr.redenergy.com.au/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Red_Energy-logo-red-energy.png
     iconUrl: https://www.redenergy.com.au/assets/img/logo-red-energy.png
@@ -1962,11 +1970,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Regional Australia Bank
     data_holder_brand_id: 264db1e2-8e1d-eb11-a834-000d3a8842e1
     is_interim: false
-    url: https://public-data.cdr.regaustbank.io/discovery/status
+    url: https://public-data.cdr.regaustbank.io/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Regional_Australia_Bank-regional-australia-bank-primary-logo.png
     iconUrl: >-
@@ -1979,7 +1987,8 @@ sites:
   - name: Reliance Bank
     data_holder_brand_id: 209da5b7-0f1c-ec11-a827-000d3a884a20
     is_interim: false
-    url: https://ibanking.reliancebank.com.au/rel-openbanking/discovery/status
+    url: >-
+      https://ibanking.reliancebank.com.au/rel-openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Reliance_Bank-logo.png
     iconUrl: https://ibanking.reliancebank.com.au/rel-openbanking/logo.png
@@ -1991,7 +2000,7 @@ sites:
   - name: RSL Money
     data_holder_brand_id: 5d5ecd1d-1d98-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://public.open.rslmoney.com.au/discovery/status
+    url: https://public.open.rslmoney.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/RSL_Money-logo-rslmoney.gif
     iconUrl: https://www.rslmoney.com.au/sites/default/files/logo-rslmoney.gif
@@ -2003,7 +2012,7 @@ sites:
   - name: Rural Bank
     data_holder_brand_id: dbb498c0-b1fd-4215-bce6-072260d4793a
     is_interim: true
-    url: https://api.cdr.ruralbank.com.au/discovery/status
+    url: https://api.cdr.ruralbank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Rural_Bank-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2015,7 +2024,7 @@ sites:
   - name: Sanctuary Energy
     data_holder_brand_id: 7de5cab6-0d84-464e-8181-950e265f3f7a
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/sanctuary/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/sanctuary/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Sanctuary_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2023,11 +2032,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: seene
     data_holder_brand_id: 3d4f1a26-66b6-4457-9877-5389818f1b75
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/seene/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/seene/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/seene-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2035,11 +2044,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Shell Energy
     data_holder_brand_id: baa3b594-2022-48ed-bf0d-9abeb74f4952
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/shell-energy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/shell-energy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Shell_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2047,11 +2056,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Smart Energy
     data_holder_brand_id: d3181009-82ca-4dde-8c30-a19db4412374
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/smart-energy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/smart-energy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Smart_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2059,11 +2068,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: SmartestEnergy
     data_holder_brand_id: de40df1e-b0d8-47e0-8763-6a1859caa451
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/smartestenergy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/smartestenergy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/SmartestEnergy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2071,11 +2080,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Sonnen
     data_holder_brand_id: 0e510b9e-6c17-44e9-b2c4-b287ec2842fb
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/sonnen/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/sonnen/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Sonnen-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2083,11 +2092,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: South West Slopes Credit Union Ltd
     data_holder_brand_id: ffc015ae-7ebf-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://online.swscu.com.au/openbanking/discovery/status
+    url: https://online.swscu.com.au/openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/South_West_Slopes_Credit_Union_Ltd-logo.png
     iconUrl: https://online.swscu.com.au/openbanking/logo.png
@@ -2099,7 +2108,7 @@ sites:
   - name: Southern Cross Credit Union
     data_holder_brand_id: bdb3f8fa-d791-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://cdr.sccu.com.au/openbanking/discovery/status
+    url: https://cdr.sccu.com.au/openbanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Southern_Cross_Credit_Union-
     iconUrl: https://www.sccu.com.au/community/attachment/stacked-logo-cmyk-transparent/
@@ -2111,7 +2120,7 @@ sites:
   - name: St.George Bank
     data_holder_brand_id: 31cc0d98-e3ae-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://digital-api.stgeorge.com.au/discovery/status
+    url: https://digital-api.stgeorge.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/St_George_Bank-STG-logo_1200x1200.jpg
     iconUrl: >-
@@ -2124,7 +2133,7 @@ sites:
   - name: Stanwell Energy
     data_holder_brand_id: 58e05a48-1826-4adb-be5f-4d71af1494ca
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/stanwell/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/stanwell/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Stanwell_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2132,11 +2141,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Summerland Bank
     data_holder_brand_id: fa919a73-7ba1-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.summerland.com.au/discovery/status
+    url: https://public.cdr-api.summerland.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Summerland_Bank-SummerlandCULogo.png
     iconUrl: https://summerland.com.au/images/iconslogos/SummerlandCULogo.png
@@ -2148,7 +2157,7 @@ sites:
   - name: Sumo
     data_holder_brand_id: d3146a7f-bcdd-4f60-9c03-e4cf47ad3e89
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/sumo-gas/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/sumo-gas/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Sumo-Sumo_Logo.png
     iconUrl: >-
@@ -2157,12 +2166,12 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Sumo Power
     data_holder_brand_id: b969898e-572f-ee11-a83d-000d3a8830d6
     is_interim: false
     url: >-
-      https://public-cdr-sumo.bravecloud.com/m8k36eqyhrvhqxeeic/public/discovery/status
+      https://public-cdr-sumo.bravecloud.com/m8k36eqyhrvhqxeeic/public/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Sumo_Power-Sumo_Logo.png
     iconUrl: >-
@@ -2171,11 +2180,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Suncorp Bank
     data_holder_brand_id: 1e13f188-0591-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://id-ob.suncorpbank.com.au/discovery/status
+    url: https://id-ob.suncorpbank.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Suncorp_Bank-suncorp-bank-logo-358x104.png
     iconUrl: >-
@@ -2188,7 +2197,7 @@ sites:
   - name: Tango Energy
     data_holder_brand_id: 8bbfb815-515e-ee11-a81c-002248e31327
     is_interim: false
-    url: https://public.cdr.tangoenergy.com/discovery/status
+    url: https://public.cdr.tangoenergy.com/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Tango_Energy-Default-Logo-Tango.png
     iconUrl: >-
@@ -2197,11 +2206,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Tas Gas
     data_holder_brand_id: ea345a5a-8b10-487f-af91-bfd48b0df577
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/tas-gas/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/tas-gas/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Tas_Gas-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2209,11 +2218,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Teachers Mutual Bank
     data_holder_brand_id: 480a35cd-4c7d-eb11-a820-000d3a884a20
     is_interim: false
-    url: https://ob.tmbl.com.au/tmbank/discovery/status
+    url: https://ob.tmbl.com.au/tmbank/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Teachers_Mutual_Bank-logodesktop.ashx
     iconUrl: >-
@@ -2226,7 +2235,7 @@ sites:
   - name: Telstra Energy
     data_holder_brand_id: d709dd2d-e1df-44ec-b427-90865c77b7bf
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/telstra-energy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/telstra-energy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Telstra_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2234,11 +2243,12 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: The Capricornian
     data_holder_brand_id: d722e732-77bf-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://public.cdr.onlinebanking.capricornian.com.au/discovery/status
+    url: >-
+      https://public.cdr.onlinebanking.capricornian.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/The_Capricornian-logo@2x-300x111.png
     iconUrl: https://www.capricornian.com.au/app/uploads/2021/08/logo@2x-300x111.png
@@ -2250,7 +2260,7 @@ sites:
   - name: The Mac
     data_holder_brand_id: 1f412aa8-24c8-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://onlinebanking.themaccu.com.au/OpenBanking/discovery/status
+    url: https://onlinebanking.themaccu.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/The_Mac-logolb.png
     iconUrl: https://themaccu.com.au/media/2735/logolb.png
@@ -2262,7 +2272,7 @@ sites:
   - name: Thriday
     data_holder_brand_id: 216813c9-21c6-ec11-a82e-000d3a8830d6
     is_interim: false
-    url: https://public.cdr.thriday.com.au/discovery/status
+    url: https://public.cdr.thriday.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Thriday-61e502fda949f4c2ee4adeb0_Thriday%20Logo_Horizontal%20Full%20Colour-p-500.png
     iconUrl: >-
@@ -2275,7 +2285,8 @@ sites:
   - name: TMCU
     data_holder_brand_id: 75a52ce6-120a-ec11-a826-000d3a884a20
     is_interim: false
-    url: https://banking.transportmutual.com.au/OpenBanking/discovery/status
+    url: >-
+      https://banking.transportmutual.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/TMCU-logo.png
     iconUrl: https://banking.transportmutual.com.au/OpenBanking/logo.png
@@ -2287,7 +2298,7 @@ sites:
   - name: Traditional Credit Union
     data_holder_brand_id: cae1ccc1-f2de-4b61-85b6-0320c180e009
     is_interim: true
-    url: https://prd.tcu.com.au/discovery/status
+    url: https://prd.tcu.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Traditional_Credit_Union-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2299,7 +2310,7 @@ sites:
   - name: Tyro Payments
     data_holder_brand_id: 0bd792ee-49b4-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://public.cdr.tyro.com/discovery/status
+    url: https://public.cdr.tyro.com/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Tyro_Payments-logo1.png
     iconUrl: https://www.tyro.com/wp-content/uploads/2021/03/logo1.png
@@ -2311,7 +2322,7 @@ sites:
   - name: UBank
     data_holder_brand_id: 307dbf74-8bbe-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://public.cdr-api.86400.com.au/discovery/status
+    url: https://public.cdr-api.86400.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/UBank-ubank-logo.svg
     iconUrl: https://www.ubank.com.au/assets/images/light/ubank-logo.svg
@@ -2323,7 +2334,7 @@ sites:
   - name: UniBank
     data_holder_brand_id: 8ac1db25-30b1-eb11-a822-000d3a884a20
     is_interim: false
-    url: https://ob.tmbl.com.au/unibank/discovery/status
+    url: https://ob.tmbl.com.au/unibank/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/UniBank-UniBank_RGB_Black_Logo_200x52px.ashx
     iconUrl: >-
@@ -2336,7 +2347,7 @@ sites:
   - name: Unity Bank
     data_holder_brand_id: bf7df75a-52bf-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://ibanking.unitybank.com.au/OpenBanking/discovery/status
+    url: https://ibanking.unitybank.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Unity_Bank-logo.png
     iconUrl: https://ibanking.unitybank.com.au/OpenBanking/logo.png
@@ -2348,7 +2359,7 @@ sites:
   - name: Unloan
     data_holder_brand_id: fcfec791-391b-ec11-a827-000d3a884a20
     is_interim: false
-    url: https://public.api.cdr.unloan.com.au/discovery/status
+    url: https://public.api.cdr.unloan.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Unloan-610a26bbe635e42da8e03fe8_Unloan_logo.svg
     iconUrl: >-
@@ -2361,7 +2372,7 @@ sites:
   - name: Up
     data_holder_brand_id: bf1c01af-789d-eb11-a821-000d3a884a20
     is_interim: false
-    url: https://api.up.com.au/discovery/status
+    url: https://api.up.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Up-logo_1000x1000.png
     iconUrl: https://up.com.au/assets/images/logo_1000x1000.png
@@ -2373,7 +2384,7 @@ sites:
   - name: Virgin Money
     data_holder_brand_id: 5f4a4ddc-670f-ec11-a826-000d3a884a20
     is_interim: false
-    url: https://api.cds.virginmoney.com.au/discovery/status
+    url: https://api.cds.virginmoney.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Virgin_Money-vma-logo.gif
     iconUrl: https://virginmoney.com.au/content/dam/virginmoney/vma-logo.gif
@@ -2385,7 +2396,7 @@ sites:
   - name: Warwick Credit Union Ltd
     data_holder_brand_id: e22c0f07-21fb-eb11-a825-000d3a884a20
     is_interim: false
-    url: https://openbanking.wcu.com.au/OpenBanking/discovery/status
+    url: https://openbanking.wcu.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Warwick_Credit_Union_Ltd-warwick-logo.png.webp
     iconUrl: https://www.wcu.com.au/app/uploads/2024/02/warwick-logo.png.webp
@@ -2397,7 +2408,7 @@ sites:
   - name: Westpac
     data_holder_brand_id: ffe2945b-e094-ea11-a831-000d3a8842e1
     is_interim: false
-    url: https://digital-api.westpac.com.au/discovery/status
+    url: https://digital-api.westpac.com.au/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Westpac-logo_white_bg.png.ce5c4c19ec61b56796f0e218fc8329c558421fd8.png
     iconUrl: >-
@@ -2410,7 +2421,7 @@ sites:
   - name: WinConnect
     data_holder_brand_id: cfff6141-0d91-4c25-b708-eff75fa7de5e
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/winconnect/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/winconnect/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/WinConnect-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2418,11 +2429,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: Wise
     data_holder_brand_id: 9c8c5e8d-5cb9-ec11-a82d-000d3a8830d6
     is_interim: false
-    url: https://au-cdrbanking-pub.wise.com/discovery/status
+    url: https://au-cdrbanking-pub.wise.com/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Wise-brand_logo.svg
     iconUrl: https://wise.com/public-resources/assets/logos/wise/brand_logo.svg
@@ -2434,7 +2445,8 @@ sites:
   - name: Woolworths Team Bank
     data_holder_brand_id: 27562b79-f6c8-eb11-a823-000d3a884a20
     is_interim: false
-    url: https://online.woolworthsteambank.com.au/OpenBanking/discovery/status
+    url: >-
+      https://online.woolworthsteambank.com.au/OpenBanking/cds-au/v1/discovery/status
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/Woolworths_Team_Bank-wp-log-top-navi-logo.png
     iconUrl: >-
@@ -2447,7 +2459,7 @@ sites:
   - name: YES Energy
     data_holder_brand_id: d43e8fb4-b1a2-4cfd-bde4-ab91daec7399
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/yes-energy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/yes-energy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/YES_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2455,11 +2467,11 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
   - name: ZEN Energy
     data_holder_brand_id: 6cbf6fb7-f565-4f2e-9b65-903b0badb20c
     is_interim: true
-    url: https://cdr.energymadeeasy.gov.au/zen-energy/discovery/status
+    url: https://cdr.energymadeeasy.gov.au/zen-energy/cds-au/v1/energy/plans
     icon: >-
       https://raw.githubusercontent.com/dsbaus/cdr-uptime/master/assets/logos/ZEN_Energy-No-logo-available-2.png
     iconUrl: https://www.cdr.gov.au/sites/default/files/2022-08/No-logo-available-2.png
@@ -2467,7 +2479,7 @@ sites:
       - energy
     _dangerous__insecure: true
     headers:
-      - 'x-v: 3'
+      - 'x-v: 1'
 
 
 workflowSchedule:
