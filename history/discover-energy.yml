@@ -1,7 +1,7 @@
-url: https://cdr.energymadeeasy.gov.au/discover/discovery/status
-status: down
-code: 404
-responseTime: 57
-lastUpdated: 2024-08-23T12:01:51.084Z
+url: https://cdr.energymadeeasy.gov.au/discover/cds-au/v1/energy/plans
+status: up
+code: 200
+responseTime: 1313
+lastUpdated: 2024-08-23T12:40:45.706Z
 startTime: 2024-08-23T12:01:50.946Z
 generator: Upptime <https://github.com/upptime/upptime>
