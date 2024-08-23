@@ -1,7 +1,7 @@
-url: https://public.api.cdr.unloan.com.au/discovery/status
-status: down
-code: 404
-responseTime: 941
-lastUpdated: 2024-08-23T12:06:26.398Z
+url: https://public.api.cdr.unloan.com.au/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 864
+lastUpdated: 2024-08-23T12:44:14.885Z
 startTime: 2024-08-23T12:06:24.987Z
 generator: Upptime <https://github.com/upptime/upptime>
