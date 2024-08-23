@@ -1,7 +1,7 @@
-url: https://openbank.newcastlepermanent.com.au/discovery/status
-status: down
-code: 404
-responseTime: 1456
-lastUpdated: 2024-08-23T12:04:04.074Z
+url: https://openbank.newcastlepermanent.com.au/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 1150
+lastUpdated: 2024-08-23T12:42:38.845Z
 startTime: 2024-08-23T12:04:02.205Z
 generator: Upptime <https://github.com/upptime/upptime>
