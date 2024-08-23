@@ -1,7 +1,7 @@
-url: https://api.cds.mebank.com.au/discovery/status
-status: down
-code: 403
-responseTime: 1100
-lastUpdated: 2024-08-23T12:03:51.975Z
+url: https://api.cds.mebank.com.au/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 1302
+lastUpdated: 2024-08-23T12:42:26.303Z
 startTime: 2024-08-23T12:03:50.463Z
 generator: Upptime <https://github.com/upptime/upptime>
