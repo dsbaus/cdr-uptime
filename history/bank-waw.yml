@@ -1,7 +1,7 @@
-url: https://onlinebanking.wawcu.com.au/OpenBanking/discovery/status
-status: down
-code: 404
-responseTime: 1575
-lastUpdated: 2024-08-23T12:00:40.920Z
+url: https://onlinebanking.wawcu.com.au/OpenBanking/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 1896
+lastUpdated: 2024-08-23T12:39:40.071Z
 startTime: 2024-08-23T12:00:38.875Z
 generator: Upptime <https://github.com/upptime/upptime>
