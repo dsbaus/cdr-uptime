@@ -1,7 +1,7 @@
-url: https://api.openbanking.cardservicesdirect.com.au/discovery/status
-status: down
-code: 404
-responseTime: 969
-lastUpdated: 2024-08-23T12:01:06.711Z
+url: https://api.openbanking.cardservicesdirect.com.au/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 3798
+lastUpdated: 2024-08-23T12:40:05.152Z
 startTime: 2024-08-23T12:01:04.916Z
 generator: Upptime <https://github.com/upptime/upptime>
