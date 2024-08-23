@@ -1,7 +1,7 @@
-url: https://public.cdr.tyro.com/discovery/status
-status: down
-code: 404
-responseTime: 882
-lastUpdated: 2024-08-23T12:06:13.176Z
+url: https://public.cdr.tyro.com/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 1239
+lastUpdated: 2024-08-23T12:44:08.464Z
 startTime: 2024-08-23T12:06:11.893Z
 generator: Upptime <https://github.com/upptime/upptime>
