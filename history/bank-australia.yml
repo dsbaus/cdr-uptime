@@ -1,7 +1,7 @@
-url: https://public.cdr-api.bankaust.com.au/discovery/status
-status: down
-code: 404
-responseTime: 1518
-lastUpdated: 2024-08-23T12:00:17.118Z
+url: https://public.cdr-api.bankaust.com.au/cds-au/v1/discovery/status
+status: up
+code: 200
+responseTime: 1967
+lastUpdated: 2024-08-23T12:39:13.051Z
 startTime: 2024-08-23T12:00:15.102Z
 generator: Upptime <https://github.com/upptime/upptime>
