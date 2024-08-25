@@ -1,6 +1,7 @@
 # [📈 Live Status](https://dsbaus.github.io/cdr-uptime): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Data Standards Body Australia](https://dsbaus.github.io/cdr-uptime).
+[**Visit the status website →**](https://dsbaus.github.io/cdr-uptime)
 
 [![Uptime CI](https://github.com/dsbaus/cdr-uptime/workflows/Uptime%20CI/badge.svg)](https://github.com/dsbaus/cdr-uptime/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/dsbaus/cdr-uptime/workflows/Response%20Time%20CI/badge.svg)](https://github.com/dsbaus/cdr-uptime/actions?query=workflow%3A%22Response+Time+CI%22)
