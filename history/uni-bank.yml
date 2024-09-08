@@ -1,7 +1,7 @@
 url: https://ob.tmbl.com.au/unibank/cds-au/v1/discovery/status
-status: down
-code: 500
-responseTime: 422
-lastUpdated: 2024-09-07T23:14:26.760Z
+status: up
+code: 200
+responseTime: 1848
+lastUpdated: 2024-09-08T02:57:08.695Z
 startTime: 2024-08-23T12:06:18.360Z
 generator: Upptime <https://github.com/upptime/upptime>
