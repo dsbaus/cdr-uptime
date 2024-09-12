@@ -1,7 +1,7 @@
 url: https://openbanking.themutual.com.au/OpenBanking/cds-au/v1/discovery/status
-status: down
-code: 400
-responseTime: 1044
-lastUpdated: 2024-09-11T23:13:08.739Z
+status: up
+code: 200
+responseTime: 807
+lastUpdated: 2024-09-12T02:51:12.361Z
 startTime: 2024-08-23T12:03:46.912Z
 generator: Upptime <https://github.com/upptime/upptime>
