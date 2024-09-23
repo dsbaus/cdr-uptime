@@ -1,7 +1,7 @@
 url: https://api.open-banking.greatsouthernbank.com.au/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 1048
-lastUpdated: 2024-09-22T23:13:36.213Z
+responseTime: 876
+lastUpdated: 2024-09-23T23:12:20.464Z
 startTime: 2024-08-23T12:02:50.647Z
 generator: Upptime <https://github.com/upptime/upptime>
