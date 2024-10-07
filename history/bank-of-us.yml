@@ -1,7 +1,7 @@
 url: https://api.bankofus.com.au/OpenBanking/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 1133
-lastUpdated: 2024-10-06T23:10:00.761Z
+responseTime: 976
+lastUpdated: 2024-10-07T23:10:46.548Z
 startTime: 2024-08-23T12:00:30.576Z
 generator: Upptime <https://github.com/upptime/upptime>
