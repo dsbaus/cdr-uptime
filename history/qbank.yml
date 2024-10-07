@@ -1,7 +1,7 @@
 url: https://banking.qbank.com.au/openbanking/cds-au/v1/discovery/status
-status: down
-code: 500
-responseTime: 4654
-lastUpdated: 2024-10-06T23:13:30.637Z
+status: up
+code: 200
+responseTime: 1251
+lastUpdated: 2024-10-07T03:00:53.765Z
 startTime: 2024-08-23T12:04:37.623Z
 generator: Upptime <https://github.com/upptime/upptime>
