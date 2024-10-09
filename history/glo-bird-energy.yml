@@ -1,7 +1,7 @@
 url: https://publiccdr.globirdenergy.com.au/cds-au/v1/energy/plans
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-10-08T23:13:10.917Z
+status: up
+code: 200
+responseTime: 1354
+lastUpdated: 2024-10-09T23:13:51.477Z
 startTime: 2024-08-23T12:02:42.286Z
 generator: Upptime <https://github.com/upptime/upptime>
