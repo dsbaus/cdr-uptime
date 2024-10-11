@@ -1,7 +1,7 @@
 url: https://api.cds.virginmoney.com.au/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 1120
-lastUpdated: 2024-10-10T23:16:46.624Z
+responseTime: 800
+lastUpdated: 2024-10-11T23:14:09.948Z
 startTime: 2024-08-23T12:06:30.038Z
 generator: Upptime <https://github.com/upptime/upptime>
