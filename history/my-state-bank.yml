@@ -1,7 +1,7 @@
 url: https://openbank.api.mystate.com.au/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 1090
-lastUpdated: 2024-10-13T23:17:08.790Z
+responseTime: 866
+lastUpdated: 2024-10-14T23:13:11.702Z
 startTime: 2024-08-23T12:03:57.830Z
 generator: Upptime <https://github.com/upptime/upptime>
