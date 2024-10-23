@@ -1,7 +1,7 @@
 url: https://api-gateway.bankofchina.com.au/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 970
-lastUpdated: 2024-10-22T23:11:37.049Z
+responseTime: 1136
+lastUpdated: 2024-10-23T23:10:36.424Z
 startTime: 2024-08-23T12:00:21.127Z
 generator: Upptime <https://github.com/upptime/upptime>
