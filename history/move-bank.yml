@@ -1,7 +1,7 @@
 url: https://openbanking.movebank.com.au/OpenBanking/cds-au/v1/discovery/status
-status: down
-code: 520
-responseTime: 3764
-lastUpdated: 2024-10-22T23:14:04.188Z
+status: up
+code: 200
+responseTime: 2104
+lastUpdated: 2024-10-23T02:57:07.542Z
 startTime: 2024-08-23T12:03:54.778Z
 generator: Upptime <https://github.com/upptime/upptime>
