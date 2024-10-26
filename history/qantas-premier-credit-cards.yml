@@ -1,7 +1,7 @@
 url: https://api.openbanking.qantasmoney.com/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 1730
-lastUpdated: 2024-10-25T23:15:05.002Z
+responseTime: 1654
+lastUpdated: 2024-10-26T23:13:52.065Z
 startTime: 2024-08-23T12:04:34.233Z
 generator: Upptime <https://github.com/upptime/upptime>
