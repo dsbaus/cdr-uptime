@@ -1,7 +1,7 @@
 url: https://online.geelongbank.com.au/OpenBanking/cds-au/v1/discovery/status
-status: up
-code: 200
-responseTime: 1666
-lastUpdated: 2024-10-27T23:13:40.207Z
+status: down
+code: 520
+responseTime: 3360
+lastUpdated: 2024-10-28T03:01:28.371Z
 startTime: 2024-08-23T12:02:30.388Z
 generator: Upptime <https://github.com/upptime/upptime>
