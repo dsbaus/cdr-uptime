@@ -1,7 +1,7 @@
 url: https://openbanking.wcu.com.au/OpenBanking/cds-au/v1/discovery/status
-status: down
-code: 500
-responseTime: 742
-lastUpdated: 2024-10-28T23:14:59.027Z
+status: up
+code: 200
+responseTime: 725
+lastUpdated: 2024-10-29T03:01:55.312Z
 startTime: 2024-08-23T12:06:31.912Z
 generator: Upptime <https://github.com/upptime/upptime>
