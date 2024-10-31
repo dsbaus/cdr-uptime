@@ -1,7 +1,7 @@
 url: https://api.commbank.com.au/public/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 654
-lastUpdated: 2024-10-30T23:11:34.565Z
+responseTime: 1017
+lastUpdated: 2024-10-31T23:13:20.904Z
 startTime: 2024-08-23T12:01:31.184Z
 generator: Upptime <https://github.com/upptime/upptime>
