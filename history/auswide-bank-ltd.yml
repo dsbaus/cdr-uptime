@@ -1,7 +1,7 @@
 url: https://api.auswidebank.com.au/openbanking/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 5858
-lastUpdated: 2024-11-02T23:12:18.800Z
+responseTime: 1449
+lastUpdated: 2024-11-03T23:12:01.579Z
 startTime: 2024-08-23T12:00:08.900Z
 generator: Upptime <https://github.com/upptime/upptime>
