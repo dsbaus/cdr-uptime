@@ -1,7 +1,7 @@
 url: https://openbank.api.banksyd.com.au/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 1444
-lastUpdated: 2024-11-02T23:12:33.976Z
+responseTime: 1102
+lastUpdated: 2024-11-03T23:12:27.190Z
 startTime: 2024-08-23T12:00:28.693Z
 generator: Upptime <https://github.com/upptime/upptime>
