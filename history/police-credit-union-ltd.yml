@@ -1,7 +1,7 @@
 url: https://api.policecu.com.au/OpenBanking/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 1126
-lastUpdated: 2024-11-03T23:15:45.641Z
+responseTime: 1286
+lastUpdated: 2024-11-04T23:14:28.509Z
 startTime: 2024-08-23T12:04:27.506Z
 generator: Upptime <https://github.com/upptime/upptime>
