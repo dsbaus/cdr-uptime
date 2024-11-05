@@ -1,7 +1,7 @@
 url: https://api.cdr.bendigobank.com.au/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 1026
-lastUpdated: 2024-11-04T23:11:19.101Z
+responseTime: 912
+lastUpdated: 2024-11-05T23:10:46.875Z
 startTime: 2024-08-23T12:00:49.889Z
 generator: Upptime <https://github.com/upptime/upptime>
