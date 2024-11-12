@@ -1,7 +1,7 @@
 url: https://openbanking.api.rabobank.com.au/public/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 1200
-lastUpdated: 2024-11-11T23:13:01.325Z
+responseTime: 1048
+lastUpdated: 2024-11-12T23:13:29.849Z
 startTime: 2024-08-23T12:04:43.782Z
 generator: Upptime <https://github.com/upptime/upptime>
