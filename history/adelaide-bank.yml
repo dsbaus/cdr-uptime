@@ -1,7 +1,7 @@
 url: https://api.cdr.adelaidebank.com.au/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 1388
-lastUpdated: 2024-11-15T23:10:19.042Z
+responseTime: 761
+lastUpdated: 2024-11-16T23:11:06.390Z
 startTime: 2024-08-23T11:59:39.697Z
 generator: Upptime <https://github.com/upptime/upptime>
