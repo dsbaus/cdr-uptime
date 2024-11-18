@@ -1,7 +1,7 @@
 url: https://api.paypal.com/v1/identity/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 271
-lastUpdated: 2024-11-17T23:13:43.119Z
+responseTime: 289
+lastUpdated: 2024-11-18T23:14:28.195Z
 startTime: 2024-08-23T12:04:20.736Z
 generator: Upptime <https://github.com/upptime/upptime>
