@@ -1,7 +1,7 @@
 url: https://api.macquariebank.io/cds-au/v1/discovery/status
 status: up
 code: 200
-responseTime: 570
-lastUpdated: 2024-11-19T23:13:22.885Z
+responseTime: 1420
+lastUpdated: 2024-11-20T23:13:55.404Z
 startTime: 2024-08-23T12:03:43.046Z
 generator: Upptime <https://github.com/upptime/upptime>
